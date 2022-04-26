@@ -6,7 +6,10 @@
 cacheUrl: https://majidgourkani.github.io/RSS_Reader/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
-  - href: https://www.zerodayinitiative.com/rss/
+  - href: https://www.zerodayinitiative.com/rss/published/
+  - href: https://www.zerodayinitiative.com/rss/upcoming/
+  - href: https://itsecuritynews.info/feed/
+  - href: https://www.bleepingcomputer.com/feed/
+  - href: https://www.redpacketsecurity.com/feed/
+  - href:https://gixtools.net/feed/
+
