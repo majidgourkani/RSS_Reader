@@ -2,10 +2,559 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://majidgourkani.github.io/RSS_Reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-16T00:56:45.434Z</updated>
+    <updated>2022-07-17T00:58:47.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://majidgourkani.github.io/RSS_Reader/index.html"/>
     <link rel="self" href="https://majidgourkani.github.io/RSS_Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neustar Security Services launches DDoS mitigation and application security data center in Dubai]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105550</id>
+        <link href="https://www.itsecuritynews.info/neustar-security-services-launches-ddos-mitigation-and-application-security-data-center-in-dubai/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=neustar-security-services-launches-ddos-mitigation-and-application-security-data-center-in-dubai"/>
+        <updated>2022-07-16T22:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Neustar Security Services is launching a new regional DDoS mitigation and application security data center in Dubai this October. With this expansion in the Middle East, Neustar Security Services fills a burgeoning demand for a local security presence that can…
+Read more →
+Neustar Security Services launches DDoS mitigation and application security data center in Dubai first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hitachi Vantara hires Amee Desjourdy as Chief Human Resources Officer]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105548</id>
+        <link href="https://www.itsecuritynews.info/hitachi-vantara-hires-amee-desjourdy-as-chief-human-resources-officer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hitachi-vantara-hires-amee-desjourdy-as-chief-human-resources-officer"/>
+        <updated>2022-07-16T22:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Hitachi Vantara announced that Amee Desjourdy will take the role of Chief Human Resources Officer (CHRO) at the organization, effective immediately. “We are excited to welcome Amee to Hitachi Vantara at a time when the role of human resources is…
+Read more →
+Hitachi Vantara hires Amee Desjourdy as Chief Human Resources Officer first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT Security News Daily Summary 2022-07-16]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105546</id>
+        <link href="https://www.itsecuritynews.info/it-security-news-daily-summary-2022-07-16/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=it-security-news-daily-summary-2022-07-16"/>
+        <updated>2022-07-16T21:55:38.000Z</updated>
+        <summary type="html"><![CDATA[Critical flaw in Netwrix Auditor application allows arbitrary code execution Homeland Security Warns Log4j’s ‘Endemic’ Threats for Years to Come 5 data privacy imperatives for enterprise leaders North Korean Hackers Employ H0lyGh0st Ransomware to Target Businesses ISG to Publish Report…
+Read more →
+IT Security News Daily Summary 2022-07-16 first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical flaw in Netwrix Auditor application allows arbitrary code execution]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105543</id>
+        <link href="https://www.itsecuritynews.info/critical-flaw-in-netwrix-auditor-application-allows-arbitrary-code-execution/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=critical-flaw-in-netwrix-auditor-application-allows-arbitrary-code-execution"/>
+        <updated>2022-07-16T20:06:24.000Z</updated>
+        <summary type="html"><![CDATA[A vulnerability in the Netwrix Auditor software can be exploited to execute arbitrary code on affected devices. Bishop Fox discovered a vulnerability in the Netwrix Auditor software that can be exploited by attackers to execute arbitrary code on affected devices.…
+Read more →
+Critical flaw in Netwrix Auditor application allows arbitrary code execution first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical flaw in Netwrix Auditor application allows arbitrary code execution]]></title>
+        <id>https://www.redpacketsecurity.com/critical-flaw-in-netwrix-auditor-application-allows-arbitrary-code-execution/</id>
+        <link href="https://www.redpacketsecurity.com/critical-flaw-in-netwrix-auditor-application-allows-arbitrary-code-execution/"/>
+        <updated>2022-07-16T20:03:01.000Z</updated>
+        <summary type="html"><![CDATA[A vulnerability in the Netwrix Auditor software can be exploited to execute arbitrary code on...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homeland Security Warns Log4j’s ‘Endemic’ Threats for Years to Come]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105541</id>
+        <link href="https://www.itsecuritynews.info/homeland-security-warns-log4js-endemic-threats-for-years-to-come/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=homeland-security-warns-log4js-endemic-threats-for-years-to-come"/>
+        <updated>2022-07-16T19:06:06.000Z</updated>
+        <summary type="html"><![CDATA[The US Department of Homeland Security (DHS) published the Cyber Safety Review Board’s (CSRB) first report into the December 2021 Log4j incident, when a variety of vulnerabilities with this Java-based logging framework were revealed, this week.  The report’s methodology…
+Read more →
+Homeland Security Warns Log4j’s ‘Endemic’ Threats for Years to Come first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 data privacy imperatives for enterprise leaders]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105536</id>
+        <link href="https://www.itsecuritynews.info/5-data-privacy-imperatives-for-enterprise-leaders/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=5-data-privacy-imperatives-for-enterprise-leaders"/>
+        <updated>2022-07-16T17:38:32.000Z</updated>
+        <summary type="html"><![CDATA[For data-informed decision-making and strategic execution, enterprise leaders need to change how they think about data and how it is managed. This article has been indexed from Security – VentureBeat Read the original article: 5 data privacy imperatives for enterprise…
+Read more →
+5 data privacy imperatives for enterprise leaders first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Employ H0lyGh0st Ransomware to Target Businesses]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105534</id>
+        <link href="https://www.itsecuritynews.info/north-korean-hackers-employ-h0lygh0st-ransomware-to-target-businesses/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=north-korean-hackers-employ-h0lygh0st-ransomware-to-target-businesses"/>
+        <updated>2022-07-16T17:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Researchers from Microsoft’s Threat Intelligence Center (MSTIC) this week claimed that the North Korean hackers are employing the H0lyGh0st ransomware to target small and midsize businesses worldwide.  The hacking group, which calls itself H0lyGh0st and is tracked by Microsoft…
+Read more →
+North Korean Hackers Employ H0lyGh0st Ransomware to Target Businesses first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackerOne Bug Bounty Disclosure: can-use-the-reddit-android-app-as-usual-even-though-revoking-the-access-of-it-from-reddit-combysateeshn]]></title>
+        <id>https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-can-use-the-reddit-android-app-as-usual-even-though-revoking-the-access-of-it-from-reddit-com-sateeshn/</id>
+        <link href="https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-can-use-the-reddit-android-app-as-usual-even-though-revoking-the-access-of-it-from-reddit-com-sateeshn/"/>
+        <updated>2022-07-16T17:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Programme HackerOne Reddit Submitted by sateeshn Report Can use the Reddit android app as usual...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HIVE Ransomware Victim: Carrolls Irish Gifts]]></title>
+        <id>https://www.redpacketsecurity.com/hive-ransomware-victim-carrolls-irish-gifts/</id>
+        <link href="https://www.redpacketsecurity.com/hive-ransomware-victim-carrolls-irish-gifts/"/>
+        <updated>2022-07-16T17:01:19.000Z</updated>
+        <summary type="html"><![CDATA[NOTE: No files or stolen information are [exfiltrated/downloaded/taken/hosted/seen/reposted/disclosed] by RedPacket Security. Any legal issues relating...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISG to Publish Report on Public Cloud Services, Solutions]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105532</id>
+        <link href="https://www.itsecuritynews.info/isg-to-publish-report-on-public-cloud-services-solutions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=isg-to-publish-report-on-public-cloud-services-solutions"/>
+        <updated>2022-07-16T16:37:13.000Z</updated>
+        <summary type="html"><![CDATA[STAMFORD, Conn.–(BUSINESS WIRE)–Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm, has launched a research study examining providers of public cloud-based infrastructure, services and digital transformation for enterprises. The study results will be published in…
+Read more →
+ISG to Publish Report on Public Cloud Services, Solutions first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOC Prime Delivers New Smoking Guns Sigma Rules List]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105530</id>
+        <link href="https://www.itsecuritynews.info/soc-prime-delivers-new-smoking-guns-sigma-rules-list/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=soc-prime-delivers-new-smoking-guns-sigma-rules-list"/>
+        <updated>2022-07-16T16:36:52.000Z</updated>
+        <summary type="html"><![CDATA[BOSTON–(BUSINESS WIRE)–SOC Prime, the provider of the world’s largest and most advanced threat detection marketplace, today announced the availability of Smoking Guns Sigma Rules, a curated list of highly relevant detection content driven by SOC Prime’s recommendation engine and enhanced…
+Read more →
+SOC Prime Delivers New Smoking Guns Sigma Rules List first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex CIA Programmer Convicted of Leaking ‘Vault 7’ Hacking Tools to WikiLeaks]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105526</id>
+        <link href="https://www.itsecuritynews.info/ex-cia-programmer-convicted-of-leaking-vault-7-hacking-tools-to-wikileaks/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ex-cia-programmer-convicted-of-leaking-vault-7-hacking-tools-to-wikileaks"/>
+        <updated>2022-07-16T16:05:53.000Z</updated>
+        <summary type="html"><![CDATA[It has been found that Joshua Schulte, a former programmer for the United States Central Security Agency (CIA), is guilty of leaking top secrets to WikiLeaks by leaking Vault 7. Hacking tools and exploits can be found in vault 7…
+Read more →
+Ex CIA Programmer Convicted of Leaking ‘Vault 7’ Hacking Tools to WikiLeaks first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Koreans spotted harassing SMBs with malware]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105522</id>
+        <link href="https://www.itsecuritynews.info/north-koreans-spotted-harassing-smbs-with-malware/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=north-koreans-spotted-harassing-smbs-with-malware"/>
+        <updated>2022-07-16T15:07:41.000Z</updated>
+        <summary type="html"><![CDATA[Also: Lawyers told to dissuade clients from paying off ransomware crooks, and more In brief  SMBs, beware: Microsoft said this week it has discovered a North Korean crew targeting small businesses with ransomware since September of last year.… This article…
+Read more →
+North Koreans spotted harassing SMBs with malware first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defective WordPress Plugin Permits Full Invasion]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105520</id>
+        <link href="https://www.itsecuritynews.info/defective-wordpress-plugin-permits-full-invasion/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=defective-wordpress-plugin-permits-full-invasion"/>
+        <updated>2022-07-16T15:07:25.000Z</updated>
+        <summary type="html"><![CDATA[According to security researchers, a campaign scanning almost 1.6 million websites was made to take advantage of an arbitrary file upload vulnerability in a previously disclosed vulnerable WordPress plugin. Identified as CVE-2021-24284, the vulnerability that affects Kaswara Modern WPBakery…
+Read more →
+Defective WordPress Plugin Permits Full Invasion first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predatory Sparrow’s Assault on Iran’s Steel Industry]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105518</id>
+        <link href="https://www.itsecuritynews.info/predatory-sparrows-assault-on-irans-steel-industry/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=predatory-sparrows-assault-on-irans-steel-industry"/>
+        <updated>2022-07-16T15:07:10.000Z</updated>
+        <summary type="html"><![CDATA[Predatory Sparrow, also known as Gonjeshke Darande, has accepted full responsibility for last month’s cyberattacks on various Iranian steel factories and has now posted the first batch of top-secret papers on its Twitter account.  The group distributed a cache…
+Read more →
+Predatory Sparrow’s Assault on Iran’s Steel Industry first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers pose as journalists to breach news media org’s networks]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/hackers-pose-as-journalists-to-breach-news-media-org-s-networks/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/hackers-pose-as-journalists-to-breach-news-media-org-s-networks/"/>
+        <updated>2022-07-16T15:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Researchers following the activities of advanced persistent (APT) threat groups originating from China, North Korea, Iran, and Turkey say that journalists and media organizations have remained a constant target for state-aligned actors. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA urges to fix multiple critical flaws in Juniper Networks products]]></title>
+        <id>https://www.redpacketsecurity.com/cisa-urges-to-fix-multiple-critical-flaws-in-juniper-networks-products/</id>
+        <link href="https://www.redpacketsecurity.com/cisa-urges-to-fix-multiple-critical-flaws-in-juniper-networks-products/"/>
+        <updated>2022-07-16T15:03:03.000Z</updated>
+        <summary type="html"><![CDATA[CISA urges admins to apply recently released fixes in Juniper Networks products, including Junos Space,...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA urges to fix multiple critical flaws in Juniper Networks products]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105516</id>
+        <link href="https://www.itsecuritynews.info/cisa-urges-to-fix-multiple-critical-flaws-in-juniper-networks-products/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cisa-urges-to-fix-multiple-critical-flaws-in-juniper-networks-products"/>
+        <updated>2022-07-16T14:36:23.000Z</updated>
+        <summary type="html"><![CDATA[CISA urges admins to apply recently released fixes in Juniper Networks products, including Junos Space, Contrail Networking and NorthStar Controller. CISA urges users and administrators to review the Juniper Networks security advisories page and apply security updates available for some products, including…
+Read more →
+CISA urges to fix multiple critical flaws in Juniper Networks products first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elastix VoIP systems hacked in massive campaign to install PHP web shells]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/elastix-voip-systems-hacked-in-massive-campaign-to-install-php-web-shells/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/elastix-voip-systems-hacked-in-massive-campaign-to-install-php-web-shells/"/>
+        <updated>2022-07-16T14:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Threat analysts have uncovered a large-scale campaign targeting Elastix VoIP telephony servers with more than 500,000 malware samples over a period of three months. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat actors exploit a flaw in Digium Phone Software to target VoIP servers]]></title>
+        <id>https://www.redpacketsecurity.com/threat-actors-exploit-a-flaw-in-digium-phone-software-to-target-voip-servers/</id>
+        <link href="https://www.redpacketsecurity.com/threat-actors-exploit-a-flaw-in-digium-phone-software-to-target-voip-servers/"/>
+        <updated>2022-07-16T14:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are targeting VoIP servers by exploiting a vulnerability in Digium’s software to install...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get online training for 15 different CompTIA exams for under $60]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105511</id>
+        <link href="https://www.itsecuritynews.info/get-online-training-for-15-different-comptia-exams-for-under-60/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=get-online-training-for-15-different-comptia-exams-for-under-60"/>
+        <updated>2022-07-16T13:36:15.000Z</updated>
+        <summary type="html"><![CDATA[These iCollege courses pave the path to any number of IT careers. This article has been indexed from Latest topics for ZDNet in Security Read the original article: Get online training for 15 different CompTIA exams for under $60
+Read more →
+Get online training for 15 different CompTIA exams for under $60 first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Handed Ring Videos to Cops Without Warrants]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105509</id>
+        <link href="https://www.itsecuritynews.info/amazon-handed-ring-videos-to-cops-without-warrants/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=amazon-handed-ring-videos-to-cops-without-warrants"/>
+        <updated>2022-07-16T13:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Plus: A wild Indian cricket scam, an elite CIA hacker is found guilty of passing secrets to WikiLeaks, and more of the week’s top security news. This article has been indexed from Security Latest Read the original article: Amazon Handed…
+Read more →
+Amazon Handed Ring Videos to Cops Without Warrants first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat actors exploit a flaw in Digium Phone Software to target VoIP servers]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105507</id>
+        <link href="https://www.itsecuritynews.info/threat-actors-exploit-a-flaw-in-digium-phone-software-to-target-voip-servers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=threat-actors-exploit-a-flaw-in-digium-phone-software-to-target-voip-servers"/>
+        <updated>2022-07-16T13:35:33.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are targeting VoIP servers by exploiting a vulnerability in Digium’s software to install a web shell, Palo Alto Networks warns. Recently, Unit 42 researchers spotted a campaign targeting the Elastix system used in Digium phones since December 2021. Threat actors exploited…
+Read more →
+Threat actors exploit a flaw in Digium Phone Software to target VoIP servers first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubeaudit – Tool To Audit Your Kubernetes Clusters Against Common Security Controls]]></title>
+        <id>https://www.redpacketsecurity.com/kubeaudit-tool-to-audit-your-kubernetes-clusters-against-common-security-controls/</id>
+        <link href="https://www.redpacketsecurity.com/kubeaudit-tool-to-audit-your-kubernetes-clusters-against-common-security-controls/"/>
+        <updated>2022-07-16T13:02:52.000Z</updated>
+        <summary type="html"><![CDATA[kubeaudit is a command line tool and a Go package to audit Kubernetes clusters for...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Famm – 535,240 breached accounts]]></title>
+        <id>https://www.redpacketsecurity.com/famm-535240-breached-accounts/</id>
+        <link href="https://www.redpacketsecurity.com/famm-535240-breached-accounts/"/>
+        <updated>2022-07-16T12:02:59.000Z</updated>
+        <summary type="html"><![CDATA[In late 2020, the Japanese family photos website Famm suffered a data breach that subsequently...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eskimi – 1,197,620 breached accounts]]></title>
+        <id>https://www.redpacketsecurity.com/eskimi-1197620-breached-accounts/</id>
+        <link href="https://www.redpacketsecurity.com/eskimi-1197620-breached-accounts/"/>
+        <updated>2022-07-16T12:02:52.000Z</updated>
+        <summary type="html"><![CDATA[In late 2020, the AdTech platform Eskimi suffered a data breach that exposed 26M records...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mantis – Behind The Most Powerful Botnet Attack Ever Recorded With 26 Million RPS]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105504</id>
+        <link href="https://www.itsecuritynews.info/mantis-behind-the-most-powerful-botnet-attack-ever-recorded-with-26-million-rps/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mantis-behind-the-most-powerful-botnet-attack-ever-recorded-with-26-million-rps"/>
+        <updated>2022-07-16T11:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Several attacks targeting almost 1,000 Cloudflare customers were traced back to the botnet that was responsible for the largest HTTPS DDoS attack in June 2022. In its analysis of over 3,000 HTTP DDoS attacks against its users, the web performance…
+Read more →
+Mantis – Behind The Most Powerful Botnet Attack Ever Recorded With 26 Million RPS first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mantis – Behind The Most Powerful Botnet Attack Ever Recorded With 26 Million Request Per Second]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105500</id>
+        <link href="https://www.itsecuritynews.info/mantis-behind-the-most-powerful-botnet-attack-ever-recorded-with-26-million-request-per-second/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mantis-behind-the-most-powerful-botnet-attack-ever-recorded-with-26-million-request-per-second"/>
+        <updated>2022-07-16T11:06:37.000Z</updated>
+        <summary type="html"><![CDATA[Several attacks targeting almost 1,000 Cloudflare customers were traced back to the botnet that was responsible for the largest HTTPS DDoS attack in June 2022. In its analysis of over 3,000 HTTP DDoS attacks against its users, the web performance…
+Read more →
+Mantis – Behind The Most Powerful Botnet Attack Ever Recorded With 26 Million Request Per Second first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Famm – 535,240 breached accounts]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105498</id>
+        <link href="https://www.itsecuritynews.info/famm-535240-breached-accounts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=famm-535240-breached-accounts"/>
+        <updated>2022-07-16T11:06:20.000Z</updated>
+        <summary type="html"><![CDATA[In late 2020, the Japanese family photos website Famm suffered a data breach that subsequently exposed 1.3M customer records, including 535k unique email addresses. Impacted data also included names, dates of birth, genders and passwords stored as SHA-256 hashes. This…
+Read more →
+Famm – 535,240 breached accounts first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 185[.]81[.]68[.]45:443]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-185-81-68-45-port-443/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-185-81-68-45-port-443/"/>
+        <updated>2022-07-16T11:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 180[.]178[.]36[.]51:443]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-180-178-36-51-port-443/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-180-178-36-51-port-443/"/>
+        <updated>2022-07-16T11:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eskimi – 1,197,620 breached accounts]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105492</id>
+        <link href="https://www.itsecuritynews.info/eskimi-1197620-breached-accounts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=eskimi-1197620-breached-accounts"/>
+        <updated>2022-07-16T08:36:33.000Z</updated>
+        <summary type="html"><![CDATA[In late 2020, the AdTech platform Eskimi suffered a data breach that exposed 26M records with 1.2M unique email addresses. The data included usernames, dates of birth, genders and passwords stored as unsalted MD5 hashes. This article has been indexed…
+Read more →
+Eskimi – 1,197,620 breached accounts first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build or Buy your own antivirus product]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105490</id>
+        <link href="https://www.itsecuritynews.info/build-or-buy-your-own-antivirus-product-86/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=build-or-buy-your-own-antivirus-product-86"/>
+        <updated>2022-07-16T08:00:44.000Z</updated>
+        <summary type="html"><![CDATA[We can help you decide if you should build your own antivirus product or if you should license an OEM or whitelabel product If you are thinking of building an antivirus product in order to offer your customers 360 degree…
+Read more →
+Build or Buy your own antivirus product first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Targeting VoIP Servers By Exploiting Digium Phone Software]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105488</id>
+        <link href="https://www.itsecuritynews.info/hackers-targeting-voip-servers-by-exploiting-digium-phone-software/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hackers-targeting-voip-servers-by-exploiting-digium-phone-software"/>
+        <updated>2022-07-16T07:06:16.000Z</updated>
+        <summary type="html"><![CDATA[VoIP phones using Digium’s software have been targeted to drop a web shell on their servers as part of an attack campaign designed to exfiltrate data by downloading and executing additional payloads. “The malware installs multilayer obfuscated PHP backdoors to…
+Read more →
+Hackers Targeting VoIP Servers By Exploiting Digium Phone Software first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Removes “App Permissions” List from Play Store for New “Data Safety” Section]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105486</id>
+        <link href="https://www.itsecuritynews.info/google-removes-app-permissions-list-from-play-store-for-new-data-safety-section/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=google-removes-app-permissions-list-from-play-store-for-new-data-safety-section"/>
+        <updated>2022-07-16T07:06:01.000Z</updated>
+        <summary type="html"><![CDATA[Following the launch of a new “Data safety” section for the Android app on the Play Store, Google appears to be readying to remove the app permissions list from both the mobile app and the web. The change was highlighted by Esper’s…
+Read more →
+Google Removes “App Permissions” List from Play Store for New “Data Safety” Section first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Removes “App Permissions” List from Play Store for New “Data Safety” Section]]></title>
+        <id>https://gixtools.net/2022/07/google-removes-app-permissions-list-from-play-store-for-new-data-safety-section/</id>
+        <link href="https://gixtools.net/2022/07/google-removes-app-permissions-list-from-play-store-for-new-data-safety-section/"/>
+        <updated>2022-07-16T06:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Following the launch of a new “Data safety” section for the Android app on the Play Store, Google appears to be readying to remove the app permissions list from both the mobile app and the web. The change was highlighted by Esper’s Mishaal Rahman earlier this week. The Data safety section, which Google began rolling out in late April… Read More »Google Removes “App Permissions” List from Play Store for New “Data Safety” Section
+The post Google Removes “App Permissions” List from Play Store for New “Data Safety” Section appeared first on GIXtools.]]></summary>
+        <author>
+            <name>GIXnews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Targeting VoIP Servers By Exploiting Digium Phone Software]]></title>
+        <id>https://gixtools.net/2022/07/hackers-targeting-voip-servers-by-exploiting-digium-phone-software/</id>
+        <link href="https://gixtools.net/2022/07/hackers-targeting-voip-servers-by-exploiting-digium-phone-software/"/>
+        <updated>2022-07-16T06:33:16.000Z</updated>
+        <summary type="html"><![CDATA[VoIP phones using Digium’s software have been targeted to drop a web shell on their servers as part of an attack campaign designed to exfiltrate data by downloading and executing additional payloads. “The malware installs multilayer obfuscated PHP backdoors to the web server’s file system, downloads new payloads for execution, and schedules recurring tasks to… Read More »Hackers Targeting VoIP Servers By Exploiting Digium Phone Software
+The post Hackers Targeting VoIP Servers By Exploiting Digium Phone Software appeared first on GIXtools.]]></summary>
+        <author>
+            <name>GIXnews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update 304]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105482</id>
+        <link href="https://www.itsecuritynews.info/weekly-update-304/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=weekly-update-304"/>
+        <updated>2022-07-16T05:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Presently sponsored by: Kolide can help you nail third-party audits and internal compliance goals with endpoint security for your entire fleet. Learn more here. It's very much a last-minute agenda this week as I catch up on the inevitable post-travel…
+Read more →
+Weekly Update 304 first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105480</id>
+        <link href="https://www.itsecuritynews.info/new-netwrix-auditor-bug-could-let-attackers-compromise-active-directory-domain/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-netwrix-auditor-bug-could-let-attackers-compromise-active-directory-domain"/>
+        <updated>2022-07-16T05:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have disclosed details about a security vulnerability in the Netwrix Auditor application that, if successfully exploited, could lead to arbitrary code execution on affected devices.  “Since this service is typically executed with extensive privileges in an Active Directory environment,…
+Read more →
+New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain]]></title>
+        <id>https://gixtools.net/2022/07/new-netwrix-auditor-bug-could-let-attackers-compromise-active-directory-domain/</id>
+        <link href="https://gixtools.net/2022/07/new-netwrix-auditor-bug-could-let-attackers-compromise-active-directory-domain/"/>
+        <updated>2022-07-16T05:07:41.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have disclosed details about a security vulnerability in the Netwrix Auditor application that, if successfully exploited, could lead to arbitrary code execution on affected devices.  “Since this service is typically executed with extensive privileges in an Active Directory environment, the attacker would likely be able to compromise the Active Directory domain,” Bishop Fox said in an… Read More »New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain
+The post New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain appeared first on GIXtools.]]></summary>
+        <author>
+            <name>GIXnews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TD SYNNEX Announces Results of Senior Notes Exchange]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105476</id>
+        <link href="https://www.itsecuritynews.info/td-synnex-announces-results-of-senior-notes-exchange/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=td-synnex-announces-results-of-senior-notes-exchange"/>
+        <updated>2022-07-16T04:37:35.000Z</updated>
+        <summary type="html"><![CDATA[FREMONT, Calif. & CLEARWATER, Fla.–(BUSINESS WIRE)–Today, TD SYNNEX Corporation (the “Company”) announced the final results of the Company’s offer to exchange the Company’s outstanding unregistered notes for new registered notes (the “Exchange Offer”). Under the Exchange Offer, the Company offered…
+Read more →
+TD SYNNEX Announces Results of Senior Notes Exchange first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crosslake Technologies Announces Acquisition of Cybersecurity Advisory Firm VantagePoint]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105474</id>
+        <link href="https://www.itsecuritynews.info/crosslake-technologies-announces-acquisition-of-cybersecurity-advisory-firm-vantagepoint/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=crosslake-technologies-announces-acquisition-of-cybersecurity-advisory-firm-vantagepoint"/>
+        <updated>2022-07-16T04:37:16.000Z</updated>
+        <summary type="html"><![CDATA[CHARLOTTE, N.C.–(BUSINESS WIRE)–Crosslake Technologies, a leader in providing data-driven technology advisory services to private equity firms and their portfolio companies, announced it has completed its third add-on acquisition in the past 18 months with the purchase of cybersecurity advisory firm…
+Read more →
+Crosslake Technologies Announces Acquisition of Cybersecurity Advisory Firm VantagePoint first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four Steps to Using Metrics to Defend Your Security Budget]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105472</id>
+        <link href="https://www.itsecuritynews.info/four-steps-to-using-metrics-to-defend-your-security-budget-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=four-steps-to-using-metrics-to-defend-your-security-budget-3"/>
+        <updated>2022-07-16T04:36:56.000Z</updated>
+        <summary type="html"><![CDATA[By Diana-Lynn Contesti (Chief Architect, CISSP-ISSAP, ISSMP, CSSLP, SSCP), and Richard Nealon (Senior Security Consultant, CISSP-ISSMP, SSCP, SABSA SCF) Ever find yourself in a struggle to defend your security budget or to introduce a change? This guide is a baseline to help…
+Read more →
+Four Steps to Using Metrics to Defend Your Security Budget first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haystack Secure Delivery protects sensitive and proprietary internal communications]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105467</id>
+        <link href="https://www.itsecuritynews.info/haystack-secure-delivery-protects-sensitive-and-proprietary-internal-communications/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=haystack-secure-delivery-protects-sensitive-and-proprietary-internal-communications"/>
+        <updated>2022-07-16T02:36:27.000Z</updated>
+        <summary type="html"><![CDATA[Haystack announced Secure Delivery, a feature that deters unattributed, unauthorized sharing of sensitive information and keeps internal communications internal. “Taking an email out of context can be disastrous. Leaking company information can be even more damaging. Organizations can now rest…
+Read more →
+Haystack Secure Delivery protects sensitive and proprietary internal communications first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keysight Cyber Training Simulator enables students to develop their skills in a realistic environment]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105464</id>
+        <link href="https://www.itsecuritynews.info/keysight-cyber-training-simulator-enables-students-to-develop-their-skills-in-a-realistic-environment/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=keysight-cyber-training-simulator-enables-students-to-develop-their-skills-in-a-realistic-environment"/>
+        <updated>2022-07-16T01:36:19.000Z</updated>
+        <summary type="html"><![CDATA[Keysight Technologies has introduced Keysight Cyber Training Simulator (KCTS), a comprehensive, turnkey cyber range that simulates real-world traffic using the company’s BreakingPoint solution. With cybercrime on the rise and cybersecurity professionals difficult to find, organizations are at risk. Consequently, cybersecurity…
+Read more →
+Keysight Cyber Training Simulator enables students to develop their skills in a realistic environment first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Think twice before downloading pirated games – Week in security with Tony Anscombe]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105459</id>
+        <link href="https://www.itsecuritynews.info/think-twice-before-downloading-pirated-games-week-in-security-with-tony-anscombe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=think-twice-before-downloading-pirated-games-week-in-security-with-tony-anscombe"/>
+        <updated>2022-07-16T00:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Why downloading pirated video games may ultimately cost you dearly and how to stay safe while gaming online The post Think twice before downloading pirated games – Week in security with Tony Anscombe appeared first on WeLiveSecurity This article has…
+Read more →
+Think twice before downloading pirated games – Week in security with Tony Anscombe first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Steganography, and how can we Avoid it?]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105457</id>
+        <link href="https://www.itsecuritynews.info/what-is-steganography-and-how-can-we-avoid-it/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-is-steganography-and-how-can-we-avoid-it"/>
+        <updated>2022-07-16T00:06:23.000Z</updated>
+        <summary type="html"><![CDATA[What is steganography? Steganography is, broadly, a type of covert communication involving the use of any medium to hide messages. Steganography is a relatively old technique of hiding ‘secret’ data in plain sight to avoid detection. Seeing a resurgence of…
+Read more →
+What is Steganography, and how can we Avoid it? first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tiny Mantis Botnet Can Launch More Powerful DDoS Attacks Than Mirai]]></title>
         <id>https://www.itsecuritynews.info/?p=1105451</id>
@@ -40,106 +589,6 @@ Read more →
 Ring Reveals They Give Videos to Police Without User Consent or a Warrant first appeared on IT Security News.]]></summary>
         <author>
             <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tainted password-cracking software for industrial systems used to spread P2P Sality bot]]></title>
-        <id>https://www.redpacketsecurity.com/tainted-password-cracking-software-for-industrial-systems-used-to-spread-p2p-sality-bot/</id>
-        <link href="https://www.redpacketsecurity.com/tainted-password-cracking-software-for-industrial-systems-used-to-spread-p2p-sality-bot/"/>
-        <updated>2022-07-15T23:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Dragos researchers uncovered a small-scale campaign targeting industrial engineers and operators with Sality malware. During...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Basta Ransomware Victim: KNAUF]]></title>
-        <id>https://www.redpacketsecurity.com/black-basta-ransomware-victim-knauf/</id>
-        <link href="https://www.redpacketsecurity.com/black-basta-ransomware-victim-knauf/"/>
-        <updated>2022-07-15T23:01:50.000Z</updated>
-        <summary type="html"><![CDATA[NOTE: No files or stolen information are [exfiltrated/downloaded/taken/hosted/seen/reposted/disclosed] by RedPacket Security. Any legal issues relating...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Basta Ransomware Victim: WALLWORKINC]]></title>
-        <id>https://www.redpacketsecurity.com/black-basta-ransomware-victim-wallworkinc/</id>
-        <link href="https://www.redpacketsecurity.com/black-basta-ransomware-victim-wallworkinc/"/>
-        <updated>2022-07-15T23:01:49.000Z</updated>
-        <summary type="html"><![CDATA[NOTE: No files or stolen information are [exfiltrated/downloaded/taken/hosted/seen/reposted/disclosed] by RedPacket Security. Any legal issues relating...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Basta Ransomware Victim: C2CORP]]></title>
-        <id>https://www.redpacketsecurity.com/black-basta-ransomware-victim-c-corp/</id>
-        <link href="https://www.redpacketsecurity.com/black-basta-ransomware-victim-c-corp/"/>
-        <updated>2022-07-15T23:01:49.000Z</updated>
-        <summary type="html"><![CDATA[NOTE: No files or stolen information are [exfiltrated/downloaded/taken/hosted/seen/reposted/disclosed] by RedPacket Security. Any legal issues relating...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Basta Ransomware Victim: ttdwest]]></title>
-        <id>https://www.redpacketsecurity.com/black-basta-ransomware-victim-ttdwest/</id>
-        <link href="https://www.redpacketsecurity.com/black-basta-ransomware-victim-ttdwest/"/>
-        <updated>2022-07-15T23:01:49.000Z</updated>
-        <summary type="html"><![CDATA[NOTE: No files or stolen information are [exfiltrated/downloaded/taken/hosted/seen/reposted/disclosed] by RedPacket Security. Any legal issues relating...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Basta Ransomware Victim: paradise]]></title>
-        <id>https://www.redpacketsecurity.com/black-basta-ransomware-victim-paradise/</id>
-        <link href="https://www.redpacketsecurity.com/black-basta-ransomware-victim-paradise/"/>
-        <updated>2022-07-15T23:01:48.000Z</updated>
-        <summary type="html"><![CDATA[NOTE: No files or stolen information are [exfiltrated/downloaded/taken/hosted/seen/reposted/disclosed] by RedPacket Security. Any legal issues relating...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 194[.]135[.]24[.]244:80]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-194-135-24-244-port-80/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-194-135-24-244-port-80/"/>
-        <updated>2022-07-15T23:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 39[.]108[.]132[.]121:80]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-39-108-132-121-port-80/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-39-108-132-121-port-80/"/>
-        <updated>2022-07-15T23:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 106[.]55[.]99[.]11:80]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-106-55-99-11-port-80/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-106-55-99-11-port-80/"/>
-        <updated>2022-07-15T23:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 124[.]222[.]161[.]133:8080]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-124-222-161-133-port-8080/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-124-222-161-133-port-8080/"/>
-        <updated>2022-07-15T23:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
         </author>
     </entry>
     <entry>
@@ -710,17 +1159,6 @@ The post Why Tim Cook is concerned about coding skills appeared first on GIXtool
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Aurora PostgreSQL-compatible edition now supports R6i instances]]></title>
-        <id>https://gixtools.net/2022/07/amazon-aurora-postgresql-compatible-edition-now-supports-r6i-instances/</id>
-        <link href="https://gixtools.net/2022/07/amazon-aurora-postgresql-compatible-edition-now-supports-r6i-instances/"/>
-        <updated>2022-07-15T16:11:12.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Aurora now supports R6i instances powered by 3rd generation Intel Xeon Scalable processors. R6i instances are the 6th generation of Amazon EC2 memory optimized instances, designed for memory-intensive workloads. These instances are built on the AWS Nitro System, a combination of dedicated hardware and lightweight hypervisor, which delivers practically all of the compute and memory resources… Read More »Amazon Aurora PostgreSQL-compatible edition now supports R6i instances
-The post Amazon Aurora PostgreSQL-compatible edition now supports R6i instances appeared first on GIXtools.]]></summary>
-        <author>
-            <name>GIXnews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hackers targeting journalists across the World]]></title>
         <id>https://www.itsecuritynews.info/?p=1105356</id>
         <link href="https://www.itsecuritynews.info/hackers-targeting-journalists-across-the-world/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hackers-targeting-journalists-across-the-world"/>
@@ -776,28 +1214,6 @@ Read more →
 Belatedly Introducing #LiveFromUkraine first appeared on IT Security News.]]></summary>
         <author>
             <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Key Things We Learned from CISOs of Smaller Enterprises Survey]]></title>
-        <id>https://gixtools.net/2022/07/5-key-things-we-learned-from-cisos-of-smaller-enterprises-survey/</id>
-        <link href="https://gixtools.net/2022/07/5-key-things-we-learned-from-cisos-of-smaller-enterprises-survey/"/>
-        <updated>2022-07-15T16:05:13.000Z</updated>
-        <summary type="html"><![CDATA[New survey reveals lack of staff, skills, and resources driving smaller teams to outsource security. As business begins its return to normalcy (however “normal” may look), CISOs at small and medium-size enterprises (500 – 10,000 employees) were asked to share their cybersecurity challenges and priorities, and their responses were compared the results with those of a… Read More »5 Key Things We Learned from CISOs of Smaller Enterprises Survey
-The post 5 Key Things We Learned from CISOs of Smaller Enterprises Survey appeared first on GIXtools.]]></summary>
-        <author>
-            <name>GIXnews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Automatic Model Tuning now supports increased limits to improve the accuracy of your models]]></title>
-        <id>https://gixtools.net/2022/07/amazon-sagemaker-automatic-model-tuning-now-supports-increased-limits-to-improve-the-accuracy-of-your-models/</id>
-        <link href="https://gixtools.net/2022/07/amazon-sagemaker-automatic-model-tuning-now-supports-increased-limits-to-improve-the-accuracy-of-your-models/"/>
-        <updated>2022-07-15T15:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker Automatic Model Tuning enables you to find the most accurate version of a machine learning (ML) model by finding the optimal set of hyperparameter configurations for your dataset. SageMaker Automatic Model Tuning now supports increased limits for two service quotas, with up to 50% higher number of total training jobs that can be… Read More »Amazon SageMaker Automatic Model Tuning now supports increased limits to improve the accuracy of your models
-The post Amazon SageMaker Automatic Model Tuning now supports increased limits to improve the accuracy of your models appeared first on GIXtools.]]></summary>
-        <author>
-            <name>GIXnews</name>
         </author>
     </entry>
     <entry>
@@ -1041,42 +1457,6 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Major Cyber Bug In Log4j To Persist As ‘Endemic’ Risk For Years To Come]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105303</id>
-        <link href="https://www.itsecuritynews.info/major-cyber-bug-in-log4j-to-persist-as-endemic-risk-for-years-to-come/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=major-cyber-bug-in-log4j-to-persist-as-endemic-risk-for-years-to-come"/>
-        <updated>2022-07-15T14:37:50.000Z</updated>
-        <summary type="html"><![CDATA[It has been reported that a major cybersecurity bug detected last year in a widely used piece of software is an “endemic vulnerability” that could persist for more than a decade as an avenue for hackers to infiltrate computer networks, a…
-Read more →
-Major Cyber Bug In Log4j To Persist As ‘Endemic’ Risk For Years To Come first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Network File System flaw results in arbitrary code execution as SYSTEM]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105301</id>
-        <link href="https://www.itsecuritynews.info/windows-network-file-system-flaw-results-in-arbitrary-code-execution-as-system/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=windows-network-file-system-flaw-results-in-arbitrary-code-execution-as-system"/>
-        <updated>2022-07-15T14:37:27.000Z</updated>
-        <summary type="html"><![CDATA[Follina was all very exciting, but did you patch CVE-2022-30136? Trend Micro Research has published an anatomy of a Windows remote code execution vulnerability lurking in the Network File System.… This article has been indexed from The Register – Security…
-Read more →
-Windows Network File System flaw results in arbitrary code execution as SYSTEM first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest Cyberthreats and Advisories – July 15, 2022]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105299</id>
-        <link href="https://www.itsecuritynews.info/latest-cyberthreats-and-advisories-july-15-2022/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=latest-cyberthreats-and-advisories-july-15-2022"/>
-        <updated>2022-07-15T14:37:04.000Z</updated>
-        <summary type="html"><![CDATA[Callback scams, ransomware, Windows attacks and phishing … here are the latest cybersecurity threats and advisories for the week of July 15, 2022. Threat Advisories and Alerts North Korea State-Sponsored Cybercriminals Target U.S. Healthcare Organizations North Korea state-sponsored cyber actors…
-Read more →
-Latest Cyberthreats and Advisories – July 15, 2022 first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tor Browser now bypasses internet censorship automatically]]></title>
         <id>https://www.bleepingcomputer.com/news/security/tor-browser-now-bypasses-internet-censorship-automatically/</id>
         <link href="https://www.bleepingcomputer.com/news/security/tor-browser-now-bypasses-internet-censorship-automatically/"/>
@@ -1084,366 +1464,6 @@ Latest Cyberthreats and Advisories – July 15, 2022 first appeared on IT Securi
         <summary type="html"><![CDATA[The Tor Project team has announced the release of Tor Browser 11.5, a major release that brings new features to help users fight censorship easier. [...]]]></summary>
         <author>
             <name>Bill Toulas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Cybersecurity Teams Can Learn From the US Cyber Command’s ‘Hunt Forward’]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105297</id>
-        <link href="https://www.itsecuritynews.info/what-cybersecurity-teams-can-learn-from-the-us-cyber-commands-hunt-forward/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-cybersecurity-teams-can-learn-from-the-us-cyber-commands-hunt-forward"/>
-        <updated>2022-07-15T14:07:26.000Z</updated>
-        <summary type="html"><![CDATA[After decades of playing defense, the United States government went on the offense in the past few years against global state-sponsored cyber attackers. U.S. Cyber Command conducted “hunt forward” operations recently in 16 countries, including in Ukraine, as part of…
-Read more →
-What Cybersecurity Teams Can Learn From the US Cyber Command’s ‘Hunt Forward’ first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Hackers Create Fake Personas for Social Engineering]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105295</id>
-        <link href="https://www.itsecuritynews.info/how-hackers-create-fake-personas-for-social-engineering/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-hackers-create-fake-personas-for-social-engineering"/>
-        <updated>2022-07-15T14:07:09.000Z</updated>
-        <summary type="html"><![CDATA[And some ways to up your game for identifying fabricated online profiles of people who don’t exist. This article has been indexed from Dark Reading Read the original article: How Hackers Create Fake Personas for Social Engineering
-Read more →
-How Hackers Create Fake Personas for Social Engineering first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anvil Mobile Hit By New Exploit – DNS Hijacking.]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105293</id>
-        <link href="https://www.itsecuritynews.info/anvil-mobile-hit-by-new-exploit-dns-hijacking/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=anvil-mobile-hit-by-new-exploit-dns-hijacking"/>
-        <updated>2022-07-15T14:06:53.000Z</updated>
-        <summary type="html"><![CDATA[This post doesn’t have text content, please click on the link below to view the original article. This article has been indexed from Information Security Buzz Read the original article: Anvil Mobile Hit By New Exploit – DNS Hijacking.
-Read more →
-Anvil Mobile Hit By New Exploit – DNS Hijacking. first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Popular Courses – June – Pluralsight]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105291</id>
-        <link href="https://www.itsecuritynews.info/most-popular-courses-june-pluralsight/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=most-popular-courses-june-pluralsight"/>
-        <updated>2022-07-15T14:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Pluralsight – the workforce technology development platform has today released its latest data – from June 2022 – around the most popular technology courses across different in-demand skills. The key findings are: The most popular course was on Microsoft Azure…
-Read more →
-Most Popular Courses – June – Pluralsight first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Expert Re: DHS report On Defending Against Log4j]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105289</id>
-        <link href="https://www.itsecuritynews.info/security-expert-re-dhs-report-on-defending-against-log4j/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=security-expert-re-dhs-report-on-defending-against-log4j"/>
-        <updated>2022-07-15T14:06:18.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Homeland Security (DHS) has released the first report by the Cyber Safety Review Board (CSRB), which includes 19 actionable recommendations for government and industry to address the continued risk posed by the Log4j zero day vulnerability.…
-Read more →
-Security Expert Re: DHS report On Defending Against Log4j first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lockdown Mode: Apple is shutting down spyware]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105284</id>
-        <link href="https://www.itsecuritynews.info/lockdown-mode-apple-is-shutting-down-spyware/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lockdown-mode-apple-is-shutting-down-spyware"/>
-        <updated>2022-07-15T13:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Currently in beta and expected to ship in the fall, Apple’s new Lockdown Mode removes certain features and functionalities from iPhones, iPads, and other macOS-powered devices in order to neutralize zero-click exploits. The mode blocks incoming invitations and service requests,…
-Read more →
-Lockdown Mode: Apple is shutting down spyware first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sophos Sees Surge Of Ransomware Attacks Against Education Sector]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105282</id>
-        <link href="https://www.itsecuritynews.info/sophos-sees-surge-of-ransomware-attacks-against-education-sector/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sophos-sees-surge-of-ransomware-attacks-against-education-sector"/>
-        <updated>2022-07-15T12:37:11.000Z</updated>
-        <summary type="html"><![CDATA[Education sector is battling a significant increase in the number of ransomware attacks, and in some cases is taking months to recover This article has been indexed from Silicon UK Read the original article: Sophos Sees Surge Of Ransomware Attacks…
-Read more →
-Sophos Sees Surge Of Ransomware Attacks Against Education Sector first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bot Battle: The Tech That Could Decide Twitter’s Musk Lawsuit]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105280</id>
-        <link href="https://www.itsecuritynews.info/bot-battle-the-tech-that-could-decide-twitters-musk-lawsuit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bot-battle-the-tech-that-could-decide-twitters-musk-lawsuit"/>
-        <updated>2022-07-15T12:36:50.000Z</updated>
-        <summary type="html"><![CDATA[If Twitter’s lawsuit over Elon Musk’s $44 billion buyout bid ever reaches trial, the case will likely center on a ubiquitous and often unloved technology: bots. read more This article has been indexed from Cybersecurity News, Insights and Analysis |…
-Read more →
-Bot Battle: The Tech That Could Decide Twitter’s Musk Lawsuit first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Vendors Start Patching Retbleed CPU Vulnerabilities]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105278</id>
-        <link href="https://www.itsecuritynews.info/software-vendors-start-patching-retbleed-cpu-vulnerabilities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=software-vendors-start-patching-retbleed-cpu-vulnerabilities"/>
-        <updated>2022-07-15T12:36:32.000Z</updated>
-        <summary type="html"><![CDATA[Vendors have started rolling out software updates to address the recently disclosed Retbleed speculative execution attack targeting Intel and AMD processors. read more This article has been indexed from Cybersecurity News, Insights and Analysis | SecurityWeek Read the original article:…
-Read more →
-Software Vendors Start Patching Retbleed CPU Vulnerabilities first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft: North Korean Hackers Target SMBs With H0lyGh0st Ransomware]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105276</id>
-        <link href="https://www.itsecuritynews.info/microsoft-north-korean-hackers-target-smbs-with-h0lygh0st-ransomware/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=microsoft-north-korean-hackers-target-smbs-with-h0lygh0st-ransomware"/>
-        <updated>2022-07-15T12:36:12.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft this week sounded the alarm on a North Korean threat actor using the H0lyGh0st ransomware in attacks targeting small and midsize businesses worldwide. read more This article has been indexed from Cybersecurity News, Insights and Analysis | SecurityWeek Read…
-Read more →
-Microsoft: North Korean Hackers Target SMBs With H0lyGh0st Ransomware first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holy Ghost ransomware operation is linked to North Korea]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105274</id>
-        <link href="https://www.itsecuritynews.info/holy-ghost-ransomware-operation-is-linked-to-north-korea/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=holy-ghost-ransomware-operation-is-linked-to-north-korea"/>
-        <updated>2022-07-15T12:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft researchers linked the Holy Ghost ransomware (H0lyGh0st) operation to North Korea-linked threat actors. The Microsoft Threat Intelligence Center (MSTIC) researchers linked the activity of the Holy Ghost ransomware (H0lyGh0st) operation to a North Korea-linked group they tracked as DEV-0530.…
-Read more →
-Holy Ghost ransomware operation is linked to North Korea first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This tiny botnet is launching the most powerful DDoS attacks yet]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105272</id>
-        <link href="https://www.itsecuritynews.info/this-tiny-botnet-is-launching-the-most-powerful-ddos-attacks-yet/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=this-tiny-botnet-is-launching-the-most-powerful-ddos-attacks-yet"/>
-        <updated>2022-07-15T12:06:27.000Z</updated>
-        <summary type="html"><![CDATA[5,000 hijacked machines behind the Mantis botnet have launched 3,000 attacks in the past month. This article has been indexed from Latest topics for ZDNet in Security Read the original article: This tiny botnet is launching the most powerful DDoS…
-Read more →
-This tiny botnet is launching the most powerful DDoS attacks yet first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Almost a third of untrained users will click a phishing link – KnowBe4 research]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105270</id>
-        <link href="https://www.itsecuritynews.info/almost-a-third-of-untrained-users-will-click-a-phishing-link-knowbe4-research/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=almost-a-third-of-untrained-users-will-click-a-phishing-link-knowbe4-research"/>
-        <updated>2022-07-15T12:06:11.000Z</updated>
-        <summary type="html"><![CDATA[New research has revealed that one in three untrained employees will click on a phishing link, according to the 2022 Phishing by Industry Benchmarking Report from KnowBe4. With ransomware payments averaging $580,000 in 2021 and business email compromise (BEC) losses topping…
-Read more →
-Almost a third of untrained users will click a phishing link – KnowBe4 research first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Ring Gave Doorbell Footage To US Police Without Owners’ Consent]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105267</id>
-        <link href="https://www.itsecuritynews.info/amazon-ring-gave-doorbell-footage-to-us-police-without-owners-consent/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=amazon-ring-gave-doorbell-footage-to-us-police-without-owners-consent"/>
-        <updated>2022-07-15T11:37:06.000Z</updated>
-        <summary type="html"><![CDATA[Surveillance footage from Amazon Ring doorbells has been provided to US police forces 11 times so far in 2022, without a warrant or owner consent This article has been indexed from Silicon UK Read the original article: Amazon Ring Gave…
-Read more →
-Amazon Ring Gave Doorbell Footage To US Police Without Owners’ Consent first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firms Not Planning for Supply Chain Threats]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105265</id>
-        <link href="https://www.itsecuritynews.info/firms-not-planning-for-supply-chain-threats/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=firms-not-planning-for-supply-chain-threats"/>
-        <updated>2022-07-15T11:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Boards underestimate cyber risks from outside their organizations, report suggests This article has been indexed from http://www.infosecurity-magazine.com/rss/news/76/application-security/ Read the original article: Firms Not Planning for Supply Chain Threats
-Read more →
-Firms Not Planning for Supply Chain Threats first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The real reason why malware detection is hard—and underestimated]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105263</id>
-        <link href="https://www.itsecuritynews.info/the-real-reason-why-malware-detection-is-hard-and-underestimated/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-real-reason-why-malware-detection-is-hard-and-underestimated"/>
-        <updated>2022-07-15T11:36:27.000Z</updated>
-        <summary type="html"><![CDATA[Researchers develop an AI with a 98% malware detection rate and 5% false positive rate. If you think this is a splendid technology for antivirus software, this article might change your mind. This article has been indexed from Security Blog…
-Read more →
-The real reason why malware detection is hard—and underestimated first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[San Francisco Police Want Real-Time Access to Private Surveillance Cameras]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105260</id>
-        <link href="https://www.itsecuritynews.info/san-francisco-police-want-real-time-access-to-private-surveillance-cameras/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=san-francisco-police-want-real-time-access-to-private-surveillance-cameras"/>
-        <updated>2022-07-15T11:36:07.000Z</updated>
-        <summary type="html"><![CDATA[Surely no one could have predicted this: The new proposal—championed by Mayor London Breed after November’s wild weekend of orchestrated burglaries and theft in the San Francisco Bay Area—would authorize the police department to use non-city-owned security cameras and camera…
-Read more →
-San Francisco Police Want Real-Time Access to Private Surveillance Cameras first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvest Subdomains with DNSHarvester]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105258</id>
-        <link href="https://www.itsecuritynews.info/harvest-subdomains-with-dnsharvester/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=harvest-subdomains-with-dnsharvester"/>
-        <updated>2022-07-15T11:07:24.000Z</updated>
-        <summary type="html"><![CDATA[We’re back again with another banger from Dan Miessler so if you liked the post… Harvest Subdomains with DNSHarvester on Latest Hacking News. This article has been indexed from Latest Hacking News Read the original article: Harvest Subdomains with DNSHarvester
-Read more →
-Harvest Subdomains with DNSHarvester first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Cybersecurity Software Apps for Android]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105256</id>
-        <link href="https://www.itsecuritynews.info/top-5-cybersecurity-software-apps-for-android/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=top-5-cybersecurity-software-apps-for-android"/>
-        <updated>2022-07-15T11:07:09.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to stay better protected from cyber security issues? For Android owners, there… Top 5 Cybersecurity Software Apps for Android on Latest Hacking News. This article has been indexed from Latest Hacking News Read the original article: Top…
-Read more →
-Top 5 Cybersecurity Software Apps for Android first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Financial Firms Failing to Fix Authentication Breaches]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105254</id>
-        <link href="https://www.itsecuritynews.info/financial-firms-failing-to-fix-authentication-breaches/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=financial-firms-failing-to-fix-authentication-breaches"/>
-        <updated>2022-07-15T11:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Four in five breaches down to compromised credentials, research finds This article has been indexed from http://www.infosecurity-magazine.com/rss/news/76/application-security/ Read the original article: Financial Firms Failing to Fix Authentication Breaches
-Read more →
-Financial Firms Failing to Fix Authentication Breaches first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to address the ongoing risk of Log4j exploitation and prepare for the future]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105252</id>
-        <link href="https://www.itsecuritynews.info/how-to-address-the-ongoing-risk-of-log4j-exploitation-and-prepare-for-the-future/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-address-the-ongoing-risk-of-log4j-exploitation-and-prepare-for-the-future"/>
-        <updated>2022-07-15T11:06:38.000Z</updated>
-        <summary type="html"><![CDATA[“Vulnerable instances of Log4j will remain in systems for many years to come, perhaps a decade or longer,” the Cyber Safety Review Board (CSRB) has concluded. Log4j exploitation: Risk and effects of remediation efforts The report concentrates on Log4Shell and…
-Read more →
-How to address the ongoing risk of Log4j exploitation and prepare for the future first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Hat announces keynote lineup for Black Hat USA 2022]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105250</id>
-        <link href="https://www.itsecuritynews.info/black-hat-announces-keynote-lineup-for-black-hat-usa-2022/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=black-hat-announces-keynote-lineup-for-black-hat-usa-2022"/>
-        <updated>2022-07-15T11:06:23.000Z</updated>
-        <summary type="html"><![CDATA[Black Hat announced Chris Krebs, Founding Partner of Krebs Stamos Group, and Kim Zetter, Journalist and Author, as keynote speakers for the Black Hat USA 2022 hybrid event. The Keynote speakers will present on Wednesday, Aug. 10 and Thursday, Aug.…
-Read more →
-Black Hat announces keynote lineup for Black Hat USA 2022 first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Premier Secure Infrastructure Event Comes to Europe in 2023]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105246</id>
-        <link href="https://www.itsecuritynews.info/the-premier-secure-infrastructure-event-comes-to-europe-in-2023/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-premier-secure-infrastructure-event-comes-to-europe-in-2023"/>
-        <updated>2022-07-15T10:38:15.000Z</updated>
-        <summary type="html"><![CDATA[TECIS 2023 is the perfect venue for all IT professionals to see first-hand how they can enhance their enterprise’s networks to create the services their customers need. This article has been indexed from Silicon UK Read the original article: The…
-Read more →
-The Premier Secure Infrastructure Event Comes to Europe in 2023 first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean Hackers Targeting Small and Midsize Businesses with H0lyGh0st Ransomware]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105244</id>
-        <link href="https://www.itsecuritynews.info/north-korean-hackers-targeting-small-and-midsize-businesses-with-h0lygh0st-ransomware/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=north-korean-hackers-targeting-small-and-midsize-businesses-with-h0lygh0st-ransomware"/>
-        <updated>2022-07-15T10:37:56.000Z</updated>
-        <summary type="html"><![CDATA[An emerging threat cluster originating from North Korea has been linked to developing and using ransomware in cyberattacks targeting small businesses since September 2021. The group, which calls itself H0lyGh0st after the ransomware payload of the same name, is being…
-Read more →
-North Korean Hackers Targeting Small and Midsize Businesses with H0lyGh0st Ransomware first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transplant Donor and Recipient Data Exposed by Healthcare Provider]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105242</id>
-        <link href="https://www.itsecuritynews.info/transplant-donor-and-recipient-data-exposed-by-healthcare-provider/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=transplant-donor-and-recipient-data-exposed-by-healthcare-provider"/>
-        <updated>2022-07-15T10:37:37.000Z</updated>
-        <summary type="html"><![CDATA[The Virginia Commonwealth University Health System (VCU) has warned almost 4500 transplant participants about a privacy breach affecting the healthcare information. The company warned that some transplant recipients’ medical records included information about their donor too. Some recipient information also…
-Read more →
-Transplant Donor and Recipient Data Exposed by Healthcare Provider first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnerabilities in the ExpressLRS Protocol Enable the Takeover of Drones]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105240</id>
-        <link href="https://www.itsecuritynews.info/vulnerabilities-in-the-expresslrs-protocol-enable-the-takeover-of-drones/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vulnerabilities-in-the-expresslrs-protocol-enable-the-takeover-of-drones"/>
-        <updated>2022-07-15T10:37:17.000Z</updated>
-        <summary type="html"><![CDATA[The ExpressLRS protocol for radio-controlled (RC) drones is vulnerable to flaws that might allow device takeover. Researchers warn of vulnerabilities in the ExpressLRS protocol for radio-controlled (RC) drones, which may be exploited to take control of unmanned vehicles.  ExpressLRS is a…
-Read more →
-Vulnerabilities in the ExpressLRS Protocol Enable the Takeover of Drones first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft: Provide Code for MacOS App Sandbox Flaw]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105238</id>
-        <link href="https://www.itsecuritynews.info/microsoft-provide-code-for-macos-app-sandbox-flaw/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=microsoft-provide-code-for-macos-app-sandbox-flaw"/>
-        <updated>2022-07-15T10:36:58.000Z</updated>
-        <summary type="html"><![CDATA[MacOS has a vulnerability that was discovered by  Microsoft, it might allow specially created code to execute freely on the system and get past the App Sandbox.  The security flaw, identified as CVE-2022-26706 (CVSS rating: 5.5), affects iOS, iPadOS,…
-Read more →
-Microsoft: Provide Code for MacOS App Sandbox Flaw first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New PayPal Phishing Kit Hijacks WordPress Sites]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105236</id>
-        <link href="https://www.itsecuritynews.info/new-paypal-phishing-kit-hijacks-wordpress-sites/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-paypal-phishing-kit-hijacks-wordpress-sites"/>
-        <updated>2022-07-15T10:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Researchers have uncovered a new phishing kit that, under the guise of security controls, injects malware into legitimate WordPress sites and uses a fake PayPal-branded social engineering scam to trick targets into handing over their most sensitive data. This data…
-Read more →
-New PayPal Phishing Kit Hijacks WordPress Sites first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Modern Platforms For Internal Code Development]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105234</id>
-        <link href="https://www.itsecuritynews.info/best-modern-platforms-for-internal-code-development/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=best-modern-platforms-for-internal-code-development"/>
-        <updated>2022-07-15T10:05:52.000Z</updated>
-        <summary type="html"><![CDATA[With technology advancing as rapidly as it is, more and more businesses are moving towards using internally developed code to power their websites and applications. … Read more The post Best Modern Platforms For Internal Code Development appeared first on…
-Read more →
-Best Modern Platforms For Internal Code Development first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST unveils four quantum-resistant encryption tools to protect sensitive electronic information]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105230</id>
-        <link href="https://www.itsecuritynews.info/nist-unveils-four-quantum-resistant-encryption-tools-to-protect-sensitive-electronic-information/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nist-unveils-four-quantum-resistant-encryption-tools-to-protect-sensitive-electronic-information"/>
-        <updated>2022-07-15T08:36:11.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) has chosen the first group of quantum-resistant encryption tools, designed to withstand the assault of a future quantum computer, which could potentially crack the security used to protect…
-Read more →
-NIST unveils four quantum-resistant encryption tools to protect sensitive electronic information first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
         </author>
     </entry>
     <entry>
@@ -1607,41 +1627,11 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Retbleed speculative execution CPU attack bypasses Retpoline fixes]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/new-retbleed-speculative-execution-cpu-attack-bypasses-retpoline-fixes/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/new-retbleed-speculative-execution-cpu-attack-bypasses-retpoline-fixes/"/>
-        <updated>2022-07-14T07:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Security researchers have discovered a new speculative execution attack called Retbleed that affects processors from both Intel and AMD and could be used to extract sensitive information. [...]]]></summary>
-        <author>
-            <name>Ionut Ilascu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Lilith ransomware emerges with extortion site, lists first victim]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/new-lilith-ransomware-emerges-with-extortion-site-lists-first-victim/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/new-lilith-ransomware-emerges-with-extortion-site-lists-first-victim/"/>
-        <updated>2022-07-13T21:52:46.000Z</updated>
-        <summary type="html"><![CDATA[A new ransomware operation has been launched under the name 'Lilith,' and it has already posted its first victim on a data leak site created to support double-extortion attacks. [...]]]></summary>
-        <author>
-            <name>Bill Toulas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bandai Namco confirms hack after ALPHV ransomware data leak threat]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/bandai-namco-confirms-hack-after-alphv-ransomware-data-leak-threat/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/bandai-namco-confirms-hack-after-alphv-ransomware-data-leak-threat/"/>
-        <updated>2022-07-13T20:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Game publishing giant Bandai Namco has confirmed that they suffered a cyberattack that may have resulted in the theft of customers' personal data. [...]]]></summary>
-        <author>
-            <name>Lawrence Abrams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ZDI-CAN-17729: Ivanti]]></title>
         <id>ZDI-CAN-17729</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.0 (AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-13, 2 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.0 (AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-13, 3 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1651,7 +1641,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17765</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 2 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 3 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1661,7 +1651,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17764</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 2 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 3 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1671,7 +1661,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17778</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-13, 2 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-13, 3 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1681,7 +1671,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17767</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 2 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 3 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1691,7 +1681,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17847</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Simon Zuckerbraun - Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-11, 4 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Simon Zuckerbraun - Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-11, 5 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1701,7 +1691,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17679</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Marcin Wiazowski' was reported to the affected vendor on: 2022-07-11, 4 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Marcin Wiazowski' was reported to the affected vendor on: 2022-07-11, 5 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1711,7 +1701,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17647</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'hades_kito' was reported to the affected vendor on: 2022-07-11, 4 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'hades_kito' was reported to the affected vendor on: 2022-07-11, 5 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1721,7 +1711,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17568</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'namnp' was reported to the affected vendor on: 2022-07-11, 4 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'namnp' was reported to the affected vendor on: 2022-07-11, 5 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1731,7 +1721,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17652</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-11, 4 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-11, 5 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1741,7 +1731,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17322</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 5.9 (AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H) severity vulnerability discovered by 'r00t4dm' was reported to the affected vendor on: 2022-07-08, 7 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 5.9 (AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H) severity vulnerability discovered by 'r00t4dm' was reported to the affected vendor on: 2022-07-08, 8 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1751,7 +1741,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-16318</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Luca Barile' was reported to the affected vendor on: 2022-07-08, 7 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Luca Barile' was reported to the affected vendor on: 2022-07-08, 8 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1761,7 +1751,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17779</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 7 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 8 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1771,7 +1761,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17783</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 7 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 8 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1781,7 +1771,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17780</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 7 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 8 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1791,7 +1781,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17308</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-07, 8 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-07, 9 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1801,7 +1791,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17338</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Yonghwi Jin (@jinmo123) at Theori' was reported to the affected vendor on: 2022-07-07, 8 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Yonghwi Jin (@jinmo123) at Theori' was reported to the affected vendor on: 2022-07-07, 9 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1811,7 +1801,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17750</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 8 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 9 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1821,7 +1811,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17812</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.2 (AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 8 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.2 (AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 9 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1831,7 +1821,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17769</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.5 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 8 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.5 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 9 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1841,7 +1831,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17762</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1851,7 +1841,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-16145</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1861,7 +1851,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17725</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1871,7 +1861,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17772</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1881,7 +1871,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17724</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1891,7 +1881,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17756</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1901,7 +1891,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17776</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1911,7 +1901,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17758</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1921,7 +1911,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17757</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1931,7 +1921,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17760</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1941,7 +1931,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17773</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1951,7 +1941,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17774</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1961,7 +1951,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17775</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1971,7 +1961,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17777</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1981,7 +1971,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17761</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1991,7 +1981,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17759</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 15 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2001,7 +1991,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17728</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 17 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2011,7 +2001,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17358</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 5.3 (AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L) severity vulnerability discovered by 'Marcin Wiazowski' was reported to the affected vendor on: 2022-06-28, 17 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 5.3 (AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L) severity vulnerability discovered by 'Marcin Wiazowski' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2021,7 +2011,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-16543</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Abdelhamid Naceri' was reported to the affected vendor on: 2022-06-28, 17 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Abdelhamid Naceri' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2031,7 +2021,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17701</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-28, 17 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2041,7 +2031,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17726</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 17 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2051,7 +2041,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17737</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Reno Robert of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 17 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Reno Robert of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2061,7 +2051,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17370</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Aaron Ferber' was reported to the affected vendor on: 2022-06-28, 17 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Aaron Ferber' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2071,7 +2061,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17727</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 17 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2081,7 +2071,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17713</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 21 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2091,7 +2081,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17671</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Tran Van Khang - khangkito (VinCSS)' was reported to the affected vendor on: 2022-06-24, 21 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Tran Van Khang - khangkito (VinCSS)' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2101,7 +2091,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17714</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 21 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2111,7 +2101,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17718</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 21 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2121,7 +2111,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17712</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 21 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2131,7 +2121,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17702</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 21 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2141,7 +2131,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17661</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 21 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2151,7 +2141,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17329</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 4.3 (AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Jeonghoon Shin(@singi21a) at Theori' was reported to the affected vendor on: 2022-06-24, 21 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 4.3 (AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Jeonghoon Shin(@singi21a) at Theori' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2161,7 +2151,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-16989</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'kdot' was reported to the affected vendor on: 2022-06-24, 21 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'kdot' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2181,7 +2171,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17680</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 9.8 (AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-22, 23 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 9.8 (AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2191,7 +2181,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17681</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-22, 23 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2201,7 +2191,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-16895</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-22, 23 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2211,7 +2201,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17643</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.1 (AV:A/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-22, 23 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.1 (AV:A/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2221,7 +2211,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17463</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.6 (AV:P/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Jedar' was reported to the affected vendor on: 2022-06-22, 23 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.6 (AV:P/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Jedar' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2231,7 +2221,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17708</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Hossein Lotfi of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-22, 23 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Hossein Lotfi of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2241,7 +2231,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-16923</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Lynn and Lays (@_L4ys)' was reported to the affected vendor on: 2022-06-22, 23 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Lynn and Lays (@_L4ys)' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2251,7 +2241,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17364</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Eduardo Braun Prado' was reported to the affected vendor on: 2022-06-22, 23 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Eduardo Braun Prado' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2261,7 +2251,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17657</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Tran Van Khang - khangkito (VinCSS)' was reported to the affected vendor on: 2022-06-22, 23 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Tran Van Khang - khangkito (VinCSS)' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2271,7 +2261,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17627</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'rgod' was reported to the affected vendor on: 2022-06-22, 23 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'rgod' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2281,7 +2271,7 @@ NIST unveils four quantum-resistant encryption tools to protect sensitive electr
         <id>ZDI-CAN-17658</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Tran Van Khang - khangkito (VinCSS)' was reported to the affected vendor on: 2022-06-22, 23 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Tran Van Khang - khangkito (VinCSS)' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2297,236 +2287,6 @@ Chore: Dependency updates
 Thank you: @cpwnd]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-16858: Delta Industrial Automation]]></title>
-        <id>ZDI-CAN-16858</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 9.8 (AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Y4er' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17584: Schneider Electric]]></title>
-        <id>ZDI-CAN-17584</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 9.8 (AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'rgod' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17640: Delta Industrial Automation]]></title>
-        <id>ZDI-CAN-17640</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.5 (AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17482: Rockwell Automation]]></title>
-        <id>ZDI-CAN-17482</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 9.8 (AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'rgod' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17583: Schneider Electric]]></title>
-        <id>ZDI-CAN-17583</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 9.8 (AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'rgod' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17367: Triangle MicroWorks]]></title>
-        <id>ZDI-CAN-17367</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.5 (AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H) severity vulnerability discovered by 'Uri Katz of Claroty Team82' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17641: Delta Industrial Automation]]></title>
-        <id>ZDI-CAN-17641</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.5 (AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17649: Schneider Electric]]></title>
-        <id>ZDI-CAN-17649</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17585: Schneider Electric]]></title>
-        <id>ZDI-CAN-17585</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'rgod' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17527: PDF-XChange]]></title>
-        <id>ZDI-CAN-17527</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17578: Exim]]></title>
-        <id>ZDI-CAN-17578</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.5 (AV:A/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17552: Foxit]]></title>
-        <id>ZDI-CAN-17552</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17551: Foxit]]></title>
-        <id>ZDI-CAN-17551</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-16152: D-Link]]></title>
-        <id>ZDI-CAN-16152</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17516: Foxit]]></title>
-        <id>ZDI-CAN-17516</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'soiax' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17545: Foxit]]></title>
-        <id>ZDI-CAN-17545</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-16142: D-Link]]></title>
-        <id>ZDI-CAN-16142</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17550: Foxit]]></title>
-        <id>ZDI-CAN-17550</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-17639: Linux]]></title>
-        <id>ZDI-CAN-17639</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.2 (AV:L/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Manuel Blanco Paraj\xc3\xb3n; Eloi Sanfelix' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-15626: Sante]]></title>
-        <id>ZDI-CAN-15626</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-15629: Sante]]></title>
-        <id>ZDI-CAN-15629</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-15628: Sante]]></title>
-        <id>ZDI-CAN-15628</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDI-CAN-15627: Sante]]></title>
-        <id>ZDI-CAN-15627</id>
-        <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
-        <updated>2022-06-17T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-17, 28 days ago. The vendor is given until 2022-10-15 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
-        <author>
-            <name>ZDI: Upcoming Advisories</name>
         </author>
     </entry>
 </feed>
