@@ -2,10 +2,384 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://majidgourkani.github.io/RSS_Reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-17T00:58:47.751Z</updated>
+    <updated>2022-07-18T00:54:45.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://majidgourkani.github.io/RSS_Reader/index.html"/>
     <link rel="self" href="https://majidgourkani.github.io/RSS_Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UK set to have world’s biggest automated drone superhighway]]></title>
+        <id>https://gixtools.net/2022/07/uk-set-to-have-worlds-biggest-automated-drone-superhighway/</id>
+        <link href="https://gixtools.net/2022/07/uk-set-to-have-worlds-biggest-automated-drone-superhighway/"/>
+        <updated>2022-07-17T23:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Reading, Cambridge and Rugby are among the places set to be connected by drones. Source:: BBC News – Technology
+The post UK set to have world’s biggest automated drone superhighway appeared first on GIXtools.]]></summary>
+        <author>
+            <name>GIXnews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firms ‘going to war’ against rivals on social media]]></title>
+        <id>https://gixtools.net/2022/07/firms-going-to-war-against-rivals-on-social-media/</id>
+        <link href="https://gixtools.net/2022/07/firms-going-to-war-against-rivals-on-social-media/"/>
+        <updated>2022-07-17T23:10:08.000Z</updated>
+        <summary type="html"><![CDATA[The boss of a high-tech monitoring company says some retailers are spreading lies about competitors. Source:: BBC News – Technology
+The post Firms ‘going to war’ against rivals on social media appeared first on GIXtools.]]></summary>
+        <author>
+            <name>GIXnews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT Security News Weekly Summary – Week 28]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105620</id>
+        <link href="https://www.itsecuritynews.info/it-security-news-weekly-summary-week-28/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=it-security-news-weekly-summary-week-28"/>
+        <updated>2022-07-17T21:59:52.000Z</updated>
+        <summary type="html"><![CDATA[IT Security News Daily Summary 2022-07-17 Lenovo UEFI Firmware Vulnerabilities Risk Numerous Laptop Models Hackers can spoof commit metadata to create false GitHub repositories Crooks stole $375k from Premint NFT, it is one of the biggest NFT hacks ever Acquiring…
+Read more →
+IT Security News Weekly Summary – Week 28 first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT Security News Daily Summary 2022-07-17]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105618</id>
+        <link href="https://www.itsecuritynews.info/it-security-news-daily-summary-2022-07-17/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=it-security-news-daily-summary-2022-07-17"/>
+        <updated>2022-07-17T21:55:36.000Z</updated>
+        <summary type="html"><![CDATA[Lenovo UEFI Firmware Vulnerabilities Risk Numerous Laptop Models Hackers can spoof commit metadata to create false GitHub repositories Crooks stole $375k from Premint NFT, it is one of the biggest NFT hacks ever Acquiring Actionable Knowledge Through Collaboration Darkweb Monitoring…
+Read more →
+IT Security News Daily Summary 2022-07-17 first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo UEFI Firmware Vulnerabilities Risk Numerous Laptop Models]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105615</id>
+        <link href="https://www.itsecuritynews.info/lenovo-uefi-firmware-vulnerabilities-risk-numerous-laptop-models/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lenovo-uefi-firmware-vulnerabilities-risk-numerous-laptop-models"/>
+        <updated>2022-07-17T20:06:23.000Z</updated>
+        <summary type="html"><![CDATA[Heads up, Lenovo users! Your laptop might just need a major update as Lenovo addressed… Lenovo UEFI Firmware Vulnerabilities Risk Numerous Laptop Models on Latest Hacking News. This article has been indexed from Latest Hacking News Read the original article:…
+Read more →
+Lenovo UEFI Firmware Vulnerabilities Risk Numerous Laptop Models first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers can spoof commit metadata to create false GitHub repositories]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105613</id>
+        <link href="https://www.itsecuritynews.info/hackers-can-spoof-commit-metadata-to-create-false-github-repositories/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hackers-can-spoof-commit-metadata-to-create-false-github-repositories"/>
+        <updated>2022-07-17T20:06:06.000Z</updated>
+        <summary type="html"><![CDATA[By Deeba Ahmed Checkmarx security researchers have warned about an emerging new supply chain attack tactic involving spoofed metadata commits to present malicious… This is a post from HackRead.com Read the original post: Hackers can spoof commit metadata to create false GitHub…
+Read more →
+Hackers can spoof commit metadata to create false GitHub repositories first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crooks stole $375k from Premint NFT, it is one of the biggest NFT hacks ever]]></title>
+        <id>https://www.redpacketsecurity.com/crooks-stole-375k-from-premint-nft-it-is-one-of-the-biggest-nft-hacks-ever/</id>
+        <link href="https://www.redpacketsecurity.com/crooks-stole-375k-from-premint-nft-it-is-one-of-the-biggest-nft-hacks-ever/"/>
+        <updated>2022-07-17T20:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors hacked the popular NFT platform, Premint NFT and stole 314 NFTs. The popular...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crooks stole $375k from Premint NFT, it is one of the biggest NFT hacks ever]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105611</id>
+        <link href="https://www.itsecuritynews.info/crooks-stole-375k-from-premint-nft-it-is-one-of-the-biggest-nft-hacks-ever/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=crooks-stole-375k-from-premint-nft-it-is-one-of-the-biggest-nft-hacks-ever"/>
+        <updated>2022-07-17T19:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors hacked the popular NFT platform, Premint NFT and stole 314 NFTs. The popular NFT platform, Premint NFT, was hacked, the threat actors compromised its official website and stole 314 NFTs. According to the experts from blockchain security firm…
+Read more →
+Crooks stole $375k from Premint NFT, it is one of the biggest NFT hacks ever first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acquiring Actionable Knowledge Through Collaboration]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105607</id>
+        <link href="https://www.itsecuritynews.info/acquiring-actionable-knowledge-through-collaboration/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=acquiring-actionable-knowledge-through-collaboration"/>
+        <updated>2022-07-17T18:36:04.000Z</updated>
+        <summary type="html"><![CDATA[Why sharing experiences is critical to the success of cybersecurity By Nicole Mills, Exhibition Director, Infosecurity Group The […] The post Acquiring Actionable Knowledge Through Collaboration appeared first on Cyber Defense Magazine. This article has been indexed from Cyber Defense…
+Read more →
+Acquiring Actionable Knowledge Through Collaboration first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darkweb Monitoring]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105605</id>
+        <link href="https://www.itsecuritynews.info/darkweb-monitoring-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=darkweb-monitoring-2"/>
+        <updated>2022-07-17T18:35:43.000Z</updated>
+        <summary type="html"><![CDATA[An Indispensable Element of Cyber Risk Management Strategy By Kaustubh Medhe, Head of Research and Intelligence, Cyble As […] The post Darkweb Monitoring appeared first on Cyber Defense Magazine. This article has been indexed from Cyber Defense Magazine Read the…
+Read more →
+Darkweb Monitoring first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is going to remove App Permissions List from the Play Store]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105601</id>
+        <link href="https://www.itsecuritynews.info/google-is-going-to-remove-app-permissions-list-from-the-play-store/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=google-is-going-to-remove-app-permissions-list-from-the-play-store"/>
+        <updated>2022-07-17T18:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Google is going to remove the app permissions list from the official Play Store for both the mobile app and the web. As part of the “Data safety” initiative for the Android app on the Play Store, Google plans to…
+Read more →
+Google is going to remove App Permissions List from the Play Store first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The History of Countering Violent Extremism Tends to Repeat. It Shouldn’t.]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105599</id>
+        <link href="https://www.itsecuritynews.info/the-history-of-countering-violent-extremism-tends-to-repeat-it-shouldnt/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-history-of-countering-violent-extremism-tends-to-repeat-it-shouldnt"/>
+        <updated>2022-07-17T18:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Department of Homeland Security Secretary Alejandro Mayorkas and FBI Director Christopher Wray testify to the Senate Committee on Homeland Security and Governmental Affairs on Sept. 21, 2021. Photo credit: DHS Photo by Zachary Hupp via Flickr. Editor’s Note: Political leaders…
+Read more →
+The History of Countering Violent Extremism Tends to Repeat. It Shouldn’t. first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is going to remove App Permissions List from the Play Store]]></title>
+        <id>https://www.redpacketsecurity.com/google-is-going-to-remove-app-permissions-list-from-the-play-store/</id>
+        <link href="https://www.redpacketsecurity.com/google-is-going-to-remove-app-permissions-list-from-the-play-store/"/>
+        <updated>2022-07-17T18:03:14.000Z</updated>
+        <summary type="html"><![CDATA[Google is going to remove the app permissions list from the official Play Store for...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mantis Botnet Behind Largest HTTPS DDoS Attack Targeting Cloudflare Users]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105597</id>
+        <link href="https://www.itsecuritynews.info/mantis-botnet-behind-largest-https-ddos-attack-targeting-cloudflare-users/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mantis-botnet-behind-largest-https-ddos-attack-targeting-cloudflare-users"/>
+        <updated>2022-07-17T17:36:09.000Z</updated>
+        <summary type="html"><![CDATA[A botnet called Mantis has been linked to record-breaking assaults targeting nearly 1,000 Cloudflare customers.  In June 2022, DDoS mitigation firm Cloudflare disclosed that it successfully thwarted a record-breaking DDoS attack of 26 million requests per second. Just a…
+Read more →
+Mantis Botnet Behind Largest HTTPS DDoS Attack Targeting Cloudflare Users first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Office Phishing Attack circumvents multi-factor authentication]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105595</id>
+        <link href="https://www.itsecuritynews.info/office-phishing-attack-circumvents-multi-factor-authentication/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=office-phishing-attack-circumvents-multi-factor-authentication"/>
+        <updated>2022-07-17T17:08:51.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft security researchers and engineers discovered a massive phishing attack that has been targeting more than 10,000 organizations since September 2021. The malicious actors used adversary-in-the-middle (AiTM) phishing sites to steal passwords […] Thank you for being a Ghacks reader.…
+Read more →
+Office Phishing Attack circumvents multi-factor authentication first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackerOne Bug Bounty Disclosure: information-disclosure-(-google-sales-channel-)byhydraxanon82]]></title>
+        <id>https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-information-disclosure-google-sales-channel-hydraxanon82/</id>
+        <link href="https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-information-disclosure-google-sales-channel-hydraxanon82/"/>
+        <updated>2022-07-17T17:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Programme HackerOne Shopify Submitted by hydraxanon82 Report Information disclosure ( Google Sales Channel ) A...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data of 4,000 Patients at VCU Health Exposed]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105591</id>
+        <link href="https://www.itsecuritynews.info/data-of-4000-patients-at-vcu-health-exposed/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=data-of-4000-patients-at-vcu-health-exposed"/>
+        <updated>2022-07-17T14:36:42.000Z</updated>
+        <summary type="html"><![CDATA[A recent incident compromising the privacy of user-protected health information has been reported by Virginia Commonwealth University Health System.  The institution revealed the confidential health information of almost 4,000 individuals for 16 years. According to VCU Health’s research, the…
+Read more →
+Data of 4,000 Patients at VCU Health Exposed first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Matrix messaging network now counts more than 60 million users]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/the-matrix-messaging-network-now-counts-more-than-60-million-users/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/the-matrix-messaging-network-now-counts-more-than-60-million-users/"/>
+        <updated>2022-07-17T14:12:06.000Z</updated>
+        <summary type="html"><![CDATA[The Matrix open network for decentralized communication has announced a record growth of 79% in the past 12 months, now counting more than 60 million users. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Using H0lyGh0st Ransomware To Attack & Demand 1.2 to 5 Bitcoins]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105589</id>
+        <link href="https://www.itsecuritynews.info/north-korean-hackers-using-h0lygh0st-ransomware-to-attack-demand-1-2-to-5-bitcoins/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=north-korean-hackers-using-h0lygh0st-ransomware-to-attack-demand-1-2-to-5-bitcoins"/>
+        <updated>2022-07-17T14:05:53.000Z</updated>
+        <summary type="html"><![CDATA[A ransomware operation called H0lyGh0st is being run by North Korean hackers for more than a year now, attacking small businesses across different countries with ransomware. There has been quite a bit of activity on the part of the group…
+Read more →
+North Korean Hackers Using H0lyGh0st Ransomware To Attack & Demand 1.2 to 5 Bitcoins first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StartupApproved\Run, pt II]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105586</id>
+        <link href="https://www.itsecuritynews.info/startupapprovedrun-pt-ii/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=startupapprovedrun-pt-ii"/>
+        <updated>2022-07-17T13:35:42.000Z</updated>
+        <summary type="html"><![CDATA[On the heels of my last blog post on this topic, I had a couple of thoughts and insights that I wanted to research a bit, and then address. I wanted to take a look at ways that the StartupApproved\Run…
+Read more →
+StartupApproved\Run, pt II first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zenbuster – Multi-threaded URL Enumeration/Brute-Forcing Tool]]></title>
+        <id>https://www.redpacketsecurity.com/zenbuster-multi-threaded-url-enumeration-brute-forcing-tool/</id>
+        <link href="https://www.redpacketsecurity.com/zenbuster-multi-threaded-url-enumeration-brute-forcing-tool/"/>
+        <updated>2022-07-17T13:02:58.000Z</updated>
+        <summary type="html"><![CDATA[ZenBuster is a multi-threaded, multi-platform URL enumeration tool written in Python by Zach Griffin (@0xTas)....]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JukinMedia – 314,290 breached accounts]]></title>
+        <id>https://www.redpacketsecurity.com/jukinmedia-314290-breached-accounts/</id>
+        <link href="https://www.redpacketsecurity.com/jukinmedia-314290-breached-accounts/"/>
+        <updated>2022-07-17T12:03:00.000Z</updated>
+        <summary type="html"><![CDATA[In October 2021, the “global leader in user-generated entertainment” Jukin Media suffered a data breach....]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Home Assistant / NodeRed to set up Holiday Lights to fake your presence.]]></title>
+        <id>https://www.redpacketsecurity.com/?p=41945</id>
+        <link href="https://www.redpacketsecurity.com/how-to-use-home-assistant-nodered-to-set-up-holiday-lights-to-fake-your-presence/"/>
+        <updated>2022-07-17T11:54:18.000Z</updated>
+        <summary type="html"><![CDATA[So you have a smart home, you have all the lights set up and running as you like but you are about to go on holiday and want to make your home appear to be occupied and not sitting empty for a certain period of time?
+Well, good news, using Home Assistant, NodeRed and a presence faker module you can easily achieve this, lets's get on with the tutorial.
+For this tutorial, I am going to use the Sunset for my location as the trigger to start the time period for triggering the routines to enable. So Load up NodeRed.]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 180[.]76[.]161[.]95:8443]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-180-76-161-95-port-8443/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-180-76-161-95-port-8443/"/>
+        <updated>2022-07-17T11:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 164[.]132[.]237[.]65:443]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-164-132-237-65-port-443/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-164-132-237-65-port-443/"/>
+        <updated>2022-07-17T11:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 46[.]101[.]92[.]94:443]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-46-101-92-94-port-443/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-46-101-92-94-port-443/"/>
+        <updated>2022-07-17T11:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week in review: Kali Linux gets on Linode, facial recognition defeated, Log4j exploitation]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105579</id>
+        <link href="https://www.itsecuritynews.info/week-in-review-kali-linux-gets-on-linode-facial-recognition-defeated-log4j-exploitation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=week-in-review-kali-linux-gets-on-linode-facial-recognition-defeated-log4j-exploitation"/>
+        <updated>2022-07-17T09:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Dealing with threats and preventing sensitive data loss Recently, Normalyze, a data-first cloud security platform, came out of stealth with $22.2M in Series A funding.…
+Read more →
+Week in review: Kali Linux gets on Linode, facial recognition defeated, Log4j exploitation first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penetration testing]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105575</id>
+        <link href="https://www.itsecuritynews.info/penetration-testing-80/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=penetration-testing-80"/>
+        <updated>2022-07-17T08:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Penetration testing is the technical analysis of the safety level of IT systems and networks. We offer a complete investigation of the hardware / software systems for security vulnerabilities. If you have at least one online service, then you must…
+Read more →
+Penetration testing first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JukinMedia – 314,290 breached accounts]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105570</id>
+        <link href="https://www.itsecuritynews.info/jukinmedia-314290-breached-accounts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jukinmedia-314290-breached-accounts"/>
+        <updated>2022-07-17T05:35:35.000Z</updated>
+        <summary type="html"><![CDATA[In October 2021, the "global leader in user-generated entertainment" Jukin Media suffered a data breach. The breach exposed 13GB of code, configuration and data consisting of 314k unique email addresses along with names, phone numbers, IP addresses and bcrypt password…
+Read more →
+JukinMedia – 314,290 breached accounts first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APT groups target journalists and media organizations since 2021]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105568</id>
+        <link href="https://www.itsecuritynews.info/apt-groups-target-journalists-and-media-organizations-since-2021/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=apt-groups-target-journalists-and-media-organizations-since-2021"/>
+        <updated>2022-07-17T05:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Researchers from Proofpoint warn that various APT groups are targeting journalists and media organizations since 2021. Proofpoint researchers warn that APT groups are regularly targeting and posing as journalists and media organizations since early 2021. The media sector is a…
+Read more →
+APT groups target journalists and media organizations since 2021 first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Affairs newsletter Round 374 by Pierluigi Paganini]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105566</id>
+        <link href="https://www.itsecuritynews.info/security-affairs-newsletter-round-374-by-pierluigi-paganini/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=security-affairs-newsletter-round-374-by-pierluigi-paganini"/>
+        <updated>2022-07-17T05:05:53.000Z</updated>
+        <summary type="html"><![CDATA[A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box. Critical flaw in Netwrix Auditor application allows arbitrary code execution CISA urges to fix multiple…
+Read more →
+Security Affairs newsletter Round 374 by Pierluigi Paganini first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Affairs newsletter Round 374 by Pierluigi Paganini]]></title>
+        <id>https://www.redpacketsecurity.com/security-affairs-newsletter-round-374-by-pierluigi-paganini/</id>
+        <link href="https://www.redpacketsecurity.com/security-affairs-newsletter-round-374-by-pierluigi-paganini/"/>
+        <updated>2022-07-17T05:03:21.000Z</updated>
+        <summary type="html"><![CDATA[A new round of the weekly Security Affairs newsletter arrived! Every week the best security...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terry Neal joins ID.me as Chief Communications Officer]]></title>
+        <id>https://www.itsecuritynews.info/?p=1105555</id>
+        <link href="https://www.itsecuritynews.info/terry-neal-joins-id-me-as-chief-communications-officer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=terry-neal-joins-id-me-as-chief-communications-officer"/>
+        <updated>2022-07-16T23:06:35.000Z</updated>
+        <summary type="html"><![CDATA[ID.me announced the appointment of Terry Neal as Chief Communications Officer. Mr. Neal brings deep communications experience and expertise, including as a Washington Post reporter and editor, to ID.me. He will oversee ID.me’s corporate communications strategy to further advance company…
+Read more →
+Terry Neal joins ID.me as Chief Communications Officer first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neustar Security Services launches DDoS mitigation and application security data center in Dubai]]></title>
         <id>https://www.itsecuritynews.info/?p=1105550</id>
@@ -55,16 +429,6 @@ Critical flaw in Netwrix Auditor application allows arbitrary code execution fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Critical flaw in Netwrix Auditor application allows arbitrary code execution]]></title>
-        <id>https://www.redpacketsecurity.com/critical-flaw-in-netwrix-auditor-application-allows-arbitrary-code-execution/</id>
-        <link href="https://www.redpacketsecurity.com/critical-flaw-in-netwrix-auditor-application-allows-arbitrary-code-execution/"/>
-        <updated>2022-07-16T20:03:01.000Z</updated>
-        <summary type="html"><![CDATA[A vulnerability in the Netwrix Auditor software can be exploited to execute arbitrary code on...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Homeland Security Warns Log4j’s ‘Endemic’ Threats for Years to Come]]></title>
         <id>https://www.itsecuritynews.info/?p=1105541</id>
         <link href="https://www.itsecuritynews.info/homeland-security-warns-log4js-endemic-threats-for-years-to-come/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=homeland-security-warns-log4js-endemic-threats-for-years-to-come"/>
@@ -98,26 +462,6 @@ Read more →
 North Korean Hackers Employ H0lyGh0st Ransomware to Target Businesses first appeared on IT Security News.]]></summary>
         <author>
             <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackerOne Bug Bounty Disclosure: can-use-the-reddit-android-app-as-usual-even-though-revoking-the-access-of-it-from-reddit-combysateeshn]]></title>
-        <id>https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-can-use-the-reddit-android-app-as-usual-even-though-revoking-the-access-of-it-from-reddit-com-sateeshn/</id>
-        <link href="https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-can-use-the-reddit-android-app-as-usual-even-though-revoking-the-access-of-it-from-reddit-com-sateeshn/"/>
-        <updated>2022-07-16T17:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Programme HackerOne Reddit Submitted by sateeshn Report Can use the Reddit android app as usual...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HIVE Ransomware Victim: Carrolls Irish Gifts]]></title>
-        <id>https://www.redpacketsecurity.com/hive-ransomware-victim-carrolls-irish-gifts/</id>
-        <link href="https://www.redpacketsecurity.com/hive-ransomware-victim-carrolls-irish-gifts/"/>
-        <updated>2022-07-16T17:01:19.000Z</updated>
-        <summary type="html"><![CDATA[NOTE: No files or stolen information are [exfiltrated/downloaded/taken/hosted/seen/reposted/disclosed] by RedPacket Security. Any legal issues relating...]]></summary>
-        <author>
-            <name>admin</name>
         </author>
     </entry>
     <entry>
@@ -204,16 +548,6 @@ Predatory Sparrow’s Assault on Iran’s Steel Industry first appeared on IT Se
     </entry>
     <entry>
         <title type="html"><![CDATA[CISA urges to fix multiple critical flaws in Juniper Networks products]]></title>
-        <id>https://www.redpacketsecurity.com/cisa-urges-to-fix-multiple-critical-flaws-in-juniper-networks-products/</id>
-        <link href="https://www.redpacketsecurity.com/cisa-urges-to-fix-multiple-critical-flaws-in-juniper-networks-products/"/>
-        <updated>2022-07-16T15:03:03.000Z</updated>
-        <summary type="html"><![CDATA[CISA urges admins to apply recently released fixes in Juniper Networks products, including Junos Space,...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA urges to fix multiple critical flaws in Juniper Networks products]]></title>
         <id>https://www.itsecuritynews.info/?p=1105516</id>
         <link href="https://www.itsecuritynews.info/cisa-urges-to-fix-multiple-critical-flaws-in-juniper-networks-products/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cisa-urges-to-fix-multiple-critical-flaws-in-juniper-networks-products"/>
         <updated>2022-07-16T14:36:23.000Z</updated>
@@ -232,16 +566,6 @@ CISA urges to fix multiple critical flaws in Juniper Networks products first app
         <summary type="html"><![CDATA[Threat analysts have uncovered a large-scale campaign targeting Elastix VoIP telephony servers with more than 500,000 malware samples over a period of three months. [...]]]></summary>
         <author>
             <name>Bill Toulas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threat actors exploit a flaw in Digium Phone Software to target VoIP servers]]></title>
-        <id>https://www.redpacketsecurity.com/threat-actors-exploit-a-flaw-in-digium-phone-software-to-target-voip-servers/</id>
-        <link href="https://www.redpacketsecurity.com/threat-actors-exploit-a-flaw-in-digium-phone-software-to-target-voip-servers/"/>
-        <updated>2022-07-16T14:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are targeting VoIP servers by exploiting a vulnerability in Digium’s software to install...]]></summary>
-        <author>
-            <name>admin</name>
         </author>
     </entry>
     <entry>
@@ -281,36 +605,6 @@ Threat actors exploit a flaw in Digium Phone Software to target VoIP servers fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kubeaudit – Tool To Audit Your Kubernetes Clusters Against Common Security Controls]]></title>
-        <id>https://www.redpacketsecurity.com/kubeaudit-tool-to-audit-your-kubernetes-clusters-against-common-security-controls/</id>
-        <link href="https://www.redpacketsecurity.com/kubeaudit-tool-to-audit-your-kubernetes-clusters-against-common-security-controls/"/>
-        <updated>2022-07-16T13:02:52.000Z</updated>
-        <summary type="html"><![CDATA[kubeaudit is a command line tool and a Go package to audit Kubernetes clusters for...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Famm – 535,240 breached accounts]]></title>
-        <id>https://www.redpacketsecurity.com/famm-535240-breached-accounts/</id>
-        <link href="https://www.redpacketsecurity.com/famm-535240-breached-accounts/"/>
-        <updated>2022-07-16T12:02:59.000Z</updated>
-        <summary type="html"><![CDATA[In late 2020, the Japanese family photos website Famm suffered a data breach that subsequently...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eskimi – 1,197,620 breached accounts]]></title>
-        <id>https://www.redpacketsecurity.com/eskimi-1197620-breached-accounts/</id>
-        <link href="https://www.redpacketsecurity.com/eskimi-1197620-breached-accounts/"/>
-        <updated>2022-07-16T12:02:52.000Z</updated>
-        <summary type="html"><![CDATA[In late 2020, the AdTech platform Eskimi suffered a data breach that exposed 26M records...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mantis – Behind The Most Powerful Botnet Attack Ever Recorded With 26 Million RPS]]></title>
         <id>https://www.itsecuritynews.info/?p=1105504</id>
         <link href="https://www.itsecuritynews.info/mantis-behind-the-most-powerful-botnet-attack-ever-recorded-with-26-million-rps/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mantis-behind-the-most-powerful-botnet-attack-ever-recorded-with-26-million-rps"/>
@@ -344,26 +638,6 @@ Read more →
 Famm – 535,240 breached accounts first appeared on IT Security News.]]></summary>
         <author>
             <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 185[.]81[.]68[.]45:443]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-185-81-68-45-port-443/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-185-81-68-45-port-443/"/>
-        <updated>2022-07-16T11:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 180[.]178[.]36[.]51:443]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-180-178-36-51-port-443/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-180-178-36-51-port-443/"/>
-        <updated>2022-07-16T11:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
         </author>
     </entry>
     <entry>
@@ -1137,28 +1411,6 @@ Read more →
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Lambda Powertools for TypeScript is now generally available]]></title>
-        <id>https://gixtools.net/2022/07/aws-lambda-powertools-for-typescript-is-now-generally-available/</id>
-        <link href="https://gixtools.net/2022/07/aws-lambda-powertools-for-typescript-is-now-generally-available/"/>
-        <updated>2022-07-15T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the general availability of AWS Lambda Powertools for TypeScript, an open-source developer library to help you incorporate Well-Architected Serverless best practices into your Lambda function code as early and as fast as possible. Source:: Amazon AWS
-The post AWS Lambda Powertools for TypeScript is now generally available appeared first on GIXtools.]]></summary>
-        <author>
-            <name>GIXnews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Tim Cook is concerned about coding skills]]></title>
-        <id>https://gixtools.net/2022/07/why-tim-cook-is-concerned-about-coding-skills/</id>
-        <link href="https://gixtools.net/2022/07/why-tim-cook-is-concerned-about-coding-skills/"/>
-        <updated>2022-07-15T16:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple CEO Tim Cook has given his backing to a major effort to convince state governors, government, and educators to make computer science classes available to every student in every school. But it’s not just philanthropy in play. We just can’t get the staff Demand and supply. In theory, when demand increases, supply emerges to… Read More »Why Tim Cook is concerned about coding skills
-The post Why Tim Cook is concerned about coding skills appeared first on GIXtools.]]></summary>
-        <author>
-            <name>GIXnews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hackers targeting journalists across the World]]></title>
         <id>https://www.itsecuritynews.info/?p=1105356</id>
         <link href="https://www.itsecuritynews.info/hackers-targeting-journalists-across-the-world/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hackers-targeting-journalists-across-the-world"/>
@@ -1212,246 +1464,6 @@ Regulator: Facebook Marketplace Is Full Of Banned And Recalled Products first ap
         <summary type="html"><![CDATA[I had a remarkable conversation this week with a woman named Katya Savchenko, a survivor of the murderous Russian rampage in Bucha who is originally from the Donbas region of Ukraine and has been twice displaced by Russian invasions—first in…
 Read more →
 Belatedly Introducing #LiveFromUkraine first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Ray-Ban Stories Can Now Make Calls Via WhatsApp]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105345</id>
-        <link href="https://www.itsecuritynews.info/metas-ray-ban-stories-can-now-make-calls-via-whatsapp/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=metas-ray-ban-stories-can-now-make-calls-via-whatsapp"/>
-        <updated>2022-07-15T15:37:17.000Z</updated>
-        <summary type="html"><![CDATA[Calling you via…my smart glasses? WhatsApp calling and messaging now integrated into Meta’s smart glasses (Ray-Ban Stories) This article has been indexed from Silicon UK Read the original article: Meta’s Ray-Ban Stories Can Now Make Calls Via WhatsApp
-Read more →
-Meta’s Ray-Ban Stories Can Now Make Calls Via WhatsApp first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean Threat Actor Targeting SME Businesses with Ransomware]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105343</id>
-        <link href="https://www.itsecuritynews.info/north-korean-threat-actor-targeting-sme-businesses-with-ransomware/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=north-korean-threat-actor-targeting-sme-businesses-with-ransomware"/>
-        <updated>2022-07-15T15:36:55.000Z</updated>
-        <summary type="html"><![CDATA[The group, going by the name H0lyGh0st, has been developing and conducting cross-national malware attacks for over a year This article has been indexed from http://www.infosecurity-magazine.com/rss/news/76/application-security/ Read the original article: North Korean Threat Actor Targeting SME Businesses with Ransomware
-Read more →
-North Korean Threat Actor Targeting SME Businesses with Ransomware first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sandworm APT Trolls Researchers on Its Trail as It Targets Ukraine]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105341</id>
-        <link href="https://www.itsecuritynews.info/sandworm-apt-trolls-researchers-on-its-trail-as-it-targets-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sandworm-apt-trolls-researchers-on-its-trail-as-it-targets-ukraine"/>
-        <updated>2022-07-15T15:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Researchers who helped thwart the Russian nation-state group’s recent attack on Ukraine’s power supply will disclose at Black Hat USA what they found while reverse-engineering the powerful Industroyer2 malware used by the powerful hacking team. This article has been indexed…
-Read more →
-Sandworm APT Trolls Researchers on Its Trail as It Targets Ukraine first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Oversight Board Often Turns in Its Homework Late. Does it Matter?]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105338</id>
-        <link href="https://www.itsecuritynews.info/metas-oversight-board-often-turns-in-its-homework-late-does-it-matter/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=metas-oversight-board-often-turns-in-its-homework-late-does-it-matter"/>
-        <updated>2022-07-15T15:36:13.000Z</updated>
-        <summary type="html"><![CDATA[A sign outside of Meta headquarters in California. (SocialHermit, https://flic.kr/p/2nqrfQP; CC BY-NC 2.0, https://creativecommons.org/licenses/by-nc/2.0/) On June 17, the Meta Oversight Board released its 25th decision. This decision, in the Knin Cartoon case, overturned Meta’s original decision to leave up an…
-Read more →
-Meta’s Oversight Board Often Turns in Its Homework Late. Does it Matter? first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The D.C. Circuit Upholds Subpoena for Trump Financial Records]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105336</id>
-        <link href="https://www.itsecuritynews.info/the-d-c-circuit-upholds-subpoena-for-trump-financial-records/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-d-c-circuit-upholds-subpoena-for-trump-financial-records"/>
-        <updated>2022-07-15T15:35:51.000Z</updated>
-        <summary type="html"><![CDATA[Donald Trump in 2020. Official photo by the Trump White House Archive. On July 8, the U.S. Court of Appeals for the D.C. Circuit held in Trump v. Mazars that the U.S. House Committee on Oversight and Reform is entitled…
-Read more →
-The D.C. Circuit Upholds Subpoena for Trump Financial Records first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon admits to giving police ring footage without owners’ permission]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105333</id>
-        <link href="https://www.itsecuritynews.info/amazon-admits-to-giving-police-ring-footage-without-owners-permission/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=amazon-admits-to-giving-police-ring-footage-without-owners-permission"/>
-        <updated>2022-07-15T15:08:18.000Z</updated>
-        <summary type="html"><![CDATA[The smart-doorbell company, which has partnered with more than 2,000 law enforcement agencies, said in a letter that it shared multiple videos with police departments without first seeking user consent. This article has been indexed from GCN – All Content…
-Read more →
-Amazon admits to giving police ring footage without owners’ permission first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple cyber reporting will enable better governmentwide response, lawmaker argues]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105331</id>
-        <link href="https://www.itsecuritynews.info/simple-cyber-reporting-will-enable-better-governmentwide-response-lawmaker-argues/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=simple-cyber-reporting-will-enable-better-governmentwide-response-lawmaker-argues"/>
-        <updated>2022-07-15T15:08:03.000Z</updated>
-        <summary type="html"><![CDATA[Sen. Gary Peters discussed how streamlined reporting to CISA can clarify the cyber threat landscape to all U.S. networks. This article has been indexed from GCN – All Content Read the original article: Simple cyber reporting will enable better governmentwide…
-Read more →
-Simple cyber reporting will enable better governmentwide response, lawmaker argues first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Cache Side Channel Attack Can De-Anonymize Targeted Online Users]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105329</id>
-        <link href="https://www.itsecuritynews.info/new-cache-side-channel-attack-can-de-anonymize-targeted-online-users/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-cache-side-channel-attack-can-de-anonymize-targeted-online-users"/>
-        <updated>2022-07-15T15:07:47.000Z</updated>
-        <summary type="html"><![CDATA[A group of academics from the New Jersey Institute of Technology (NJIT) has warned of a novel technique that could be used to defeat anonymity protections and identify a unique website visitor. “An attacker who has complete or partial control over a…
-Read more →
-New Cache Side Channel Attack Can De-Anonymize Targeted Online Users first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts warn of attacks on sites using flawed Kaswara Modern WPBakery Page Builder Addons]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105327</id>
-        <link href="https://www.itsecuritynews.info/experts-warn-of-attacks-on-sites-using-flawed-kaswara-modern-wpbakery-page-builder-addons/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=experts-warn-of-attacks-on-sites-using-flawed-kaswara-modern-wpbakery-page-builder-addons"/>
-        <updated>2022-07-15T15:07:32.000Z</updated>
-        <summary type="html"><![CDATA[Researchers spotted a massive campaign that scanned close to 1.6 million WordPress sites for vulnerable Kaswara Modern WPBakery Page Builder Addons. The Wordfence Threat Intelligence team observed a sudden increase in attacks targeting the Kaswara Modern WPBakery Page Builder Addons.…
-Read more →
-Experts warn of attacks on sites using flawed Kaswara Modern WPBakery Page Builder Addons first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Mantis, The Tiny Shrimp That Launched 3,000 DDoS Attacks]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105325</id>
-        <link href="https://www.itsecuritynews.info/meet-mantis-the-tiny-shrimp-that-launched-3000-ddos-attacks-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=meet-mantis-the-tiny-shrimp-that-launched-3000-ddos-attacks-3"/>
-        <updated>2022-07-15T15:07:17.000Z</updated>
-        <summary type="html"><![CDATA[This post doesn’t have text content, please click on the link below to view the original article. This article has been indexed from News ≈ Packet Storm Read the original article: Meet Mantis, The Tiny Shrimp That Launched 3,000 DDoS…
-Read more →
-Meet Mantis, The Tiny Shrimp That Launched 3,000 DDoS Attacks first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journalists Emerge As Favored Attack Target For APTs]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105323</id>
-        <link href="https://www.itsecuritynews.info/journalists-emerge-as-favored-attack-target-for-apts-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=journalists-emerge-as-favored-attack-target-for-apts-2"/>
-        <updated>2022-07-15T15:07:03.000Z</updated>
-        <summary type="html"><![CDATA[This post doesn’t have text content, please click on the link below to view the original article. This article has been indexed from News ≈ Packet Storm Read the original article: Journalists Emerge As Favored Attack Target For APTs
-Read more →
-Journalists Emerge As Favored Attack Target For APTs first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tenet Health Sued Over Health Data Theft Impacting 1.2M]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105321</id>
-        <link href="https://www.itsecuritynews.info/tenet-health-sued-over-health-data-theft-impacting-1-2m/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tenet-health-sued-over-health-data-theft-impacting-1-2m"/>
-        <updated>2022-07-15T15:06:48.000Z</updated>
-        <summary type="html"><![CDATA[This post doesn’t have text content, please click on the link below to view the original article. This article has been indexed from News ≈ Packet Storm Read the original article: Tenet Health Sued Over Health Data Theft Impacting 1.2M
-Read more →
-Tenet Health Sued Over Health Data Theft Impacting 1.2M first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Network File System Flaw Results In Arbitrary Code Execution As SYSTEM]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105319</id>
-        <link href="https://www.itsecuritynews.info/windows-network-file-system-flaw-results-in-arbitrary-code-execution-as-system-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=windows-network-file-system-flaw-results-in-arbitrary-code-execution-as-system-2"/>
-        <updated>2022-07-15T15:06:32.000Z</updated>
-        <summary type="html"><![CDATA[This post doesn’t have text content, please click on the link below to view the original article. This article has been indexed from News ≈ Packet Storm Read the original article: Windows Network File System Flaw Results In Arbitrary Code…
-Read more →
-Windows Network File System Flaw Results In Arbitrary Code Execution As SYSTEM first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[user behavior analytics (UBA)]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105317</id>
-        <link href="https://www.itsecuritynews.info/user-behavior-analytics-uba/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=user-behavior-analytics-uba"/>
-        <updated>2022-07-15T14:40:03.000Z</updated>
-        <summary type="html"><![CDATA[This post doesn’t have text content, please click on the link below to view the original article. This article has been indexed from SearchSecurity Read the original article: user behavior analytics (UBA)
-Read more →
-user behavior analytics (UBA) first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerful ‘Mantis’ DDoS Botnet Hits 1,000 Organizations in One Month]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105315</id>
-        <link href="https://www.itsecuritynews.info/powerful-mantis-ddos-botnet-hits-1000-organizations-in-one-month/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=powerful-mantis-ddos-botnet-hits-1000-organizations-in-one-month"/>
-        <updated>2022-07-15T14:39:44.000Z</updated>
-        <summary type="html"><![CDATA[Web protection firm Cloudflare warns that a small but powerful botnet has launched distributed denial-of-service (DDoS) attacks on roughly 1,000 organizations over the past month alone. read more This article has been indexed from Cybersecurity News, Insights and Analysis |…
-Read more →
-Powerful ‘Mantis’ DDoS Botnet Hits 1,000 Organizations in One Month first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Infrastructure Operators Implementing Zero Trust in OT Environments]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105313</id>
-        <link href="https://www.itsecuritynews.info/critical-infrastructure-operators-implementing-zero-trust-in-ot-environments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=critical-infrastructure-operators-implementing-zero-trust-in-ot-environments"/>
-        <updated>2022-07-15T14:39:26.000Z</updated>
-        <summary type="html"><![CDATA[A survey commissioned by cybersecurity company Xage shows that zero trust is on track to being implemented in many operational technology (OT) environments, particularly in critical infrastructure organizations. read more This article has been indexed from Cybersecurity News, Insights and…
-Read more →
-Critical Infrastructure Operators Implementing Zero Trust in OT Environments first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The differences between pen tests vs. vulnerability scanning]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105311</id>
-        <link href="https://www.itsecuritynews.info/the-differences-between-pen-tests-vs-vulnerability-scanning/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-differences-between-pen-tests-vs-vulnerability-scanning"/>
-        <updated>2022-07-15T14:39:07.000Z</updated>
-        <summary type="html"><![CDATA[This post doesn’t have text content, please click on the link below to view the original article. This article has been indexed from SearchSecurity Read the original article: The differences between pen tests vs. vulnerability scanning
-Read more →
-The differences between pen tests vs. vulnerability scanning first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falling Cryptocurrency Market Stalling Cybercrime Activity]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105309</id>
-        <link href="https://www.itsecuritynews.info/falling-cryptocurrency-market-stalling-cybercrime-activity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=falling-cryptocurrency-market-stalling-cybercrime-activity"/>
-        <updated>2022-07-15T14:38:48.000Z</updated>
-        <summary type="html"><![CDATA[Falling cryptocurrency prices are making it harder for threat actors to monetize their attacks This article has been indexed from http://www.infosecurity-magazine.com/rss/news/76/application-security/ Read the original article: Falling Cryptocurrency Market Stalling Cybercrime Activity
-Read more →
-Falling Cryptocurrency Market Stalling Cybercrime Activity first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AiTM Phishing Campaign Targets +10,000 Orgs Since 2021 – Expert Comments]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105307</id>
-        <link href="https://www.itsecuritynews.info/aitm-phishing-campaign-targets-10000-orgs-since-2021-expert-comments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=aitm-phishing-campaign-targets-10000-orgs-since-2021-expert-comments"/>
-        <updated>2022-07-15T14:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Security Affairs reported on a Microsoft analysis of a large-scale phishing campaign that used adversary-in-the-middle (AiTM) phishing sites to steal passwords, hijack a user’s sign-in session, and bypass the authentication process even when the victim has enabled the MFA. –…
-Read more →
-AiTM Phishing Campaign Targets +10,000 Orgs Since 2021 – Expert Comments first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive Data]]></title>
-        <id>https://www.itsecuritynews.info/?p=1105305</id>
-        <link href="https://www.itsecuritynews.info/u-s-ftc-vows-to-crack-down-on-illegal-use-and-sharing-of-citizens-sensitive-data-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=u-s-ftc-vows-to-crack-down-on-illegal-use-and-sharing-of-citizens-sensitive-data-2"/>
-        <updated>2022-07-15T14:38:09.000Z</updated>
-        <summary type="html"><![CDATA[U.S. FTC Vows to Crack Down on Illegal Use and Sharing of Citizens’ Sensitive Data U.S. FTC Vows to Crack Down on illegal Use and Sharing of Citizens’ Sensitive Data (thehackernews.com) This article has been indexed from Information Security Buzz…
-Read more →
-U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive Data first appeared on IT Security News.]]></summary>
         <author>
             <name>script</name>
         </author>
@@ -1617,21 +1629,11 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CoinPayments to shut down in US — 5 days left to withdraw funds]]></title>
-        <id>https://www.bleepingcomputer.com/news/technology/coinpayments-to-shut-down-in-us-5-days-left-to-withdraw-funds/</id>
-        <link href="https://www.bleepingcomputer.com/news/technology/coinpayments-to-shut-down-in-us-5-days-left-to-withdraw-funds/"/>
-        <updated>2022-07-14T10:14:28.000Z</updated>
-        <summary type="html"><![CDATA[Global crypto payments gateway, CoinPayments.net is ceasing operations in the United States soon and has advised users to withdraw their assets before July 19th, 2022. The short notice given by the exchange via a private email left some customers suspecting if this was an "exit scam" or another mysterious incident. [...]]]></summary>
-        <author>
-            <name>Ax Sharma</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ZDI-CAN-17729: Ivanti]]></title>
         <id>ZDI-CAN-17729</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.0 (AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-13, 3 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.0 (AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-13, 4 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1641,7 +1643,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17765</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 3 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 4 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1651,7 +1653,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17764</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 3 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 4 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1661,7 +1663,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17778</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-13, 3 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-13, 4 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1671,7 +1673,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17767</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 3 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 4 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1681,7 +1683,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17847</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Simon Zuckerbraun - Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-11, 5 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Simon Zuckerbraun - Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-11, 6 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1691,7 +1693,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17679</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Marcin Wiazowski' was reported to the affected vendor on: 2022-07-11, 5 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Marcin Wiazowski' was reported to the affected vendor on: 2022-07-11, 6 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1701,7 +1703,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17647</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'hades_kito' was reported to the affected vendor on: 2022-07-11, 5 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'hades_kito' was reported to the affected vendor on: 2022-07-11, 6 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1711,7 +1713,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17568</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'namnp' was reported to the affected vendor on: 2022-07-11, 5 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'namnp' was reported to the affected vendor on: 2022-07-11, 6 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1721,7 +1723,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17652</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-11, 5 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-11, 6 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1731,7 +1733,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17322</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 5.9 (AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H) severity vulnerability discovered by 'r00t4dm' was reported to the affected vendor on: 2022-07-08, 8 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 5.9 (AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H) severity vulnerability discovered by 'r00t4dm' was reported to the affected vendor on: 2022-07-08, 9 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1741,7 +1743,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-16318</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Luca Barile' was reported to the affected vendor on: 2022-07-08, 8 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Luca Barile' was reported to the affected vendor on: 2022-07-08, 9 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1751,7 +1753,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17779</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 8 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 9 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1761,7 +1763,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17783</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 8 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 9 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1771,7 +1773,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17780</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 8 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 9 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1781,7 +1783,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17308</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-07, 9 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-07, 10 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1791,7 +1793,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17338</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Yonghwi Jin (@jinmo123) at Theori' was reported to the affected vendor on: 2022-07-07, 9 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Yonghwi Jin (@jinmo123) at Theori' was reported to the affected vendor on: 2022-07-07, 10 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1801,7 +1803,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17750</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 9 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 10 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1811,7 +1813,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17812</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.2 (AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 9 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.2 (AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 10 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1821,7 +1823,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17769</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.5 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 9 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.5 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 10 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1831,7 +1833,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17762</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1841,7 +1843,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-16145</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1851,7 +1853,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17725</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1861,7 +1863,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17772</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1871,7 +1873,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17724</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1881,7 +1883,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17756</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1891,7 +1893,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17776</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1901,7 +1903,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17758</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1911,7 +1913,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17757</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1921,7 +1923,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17760</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1931,7 +1933,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17773</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1941,7 +1943,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17774</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1951,7 +1953,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17775</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1961,7 +1963,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17777</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1971,7 +1973,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17761</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1981,7 +1983,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17759</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 16 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 17 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1991,7 +1993,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17728</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 19 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2001,7 +2003,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17358</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 5.3 (AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L) severity vulnerability discovered by 'Marcin Wiazowski' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 5.3 (AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L) severity vulnerability discovered by 'Marcin Wiazowski' was reported to the affected vendor on: 2022-06-28, 19 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2011,7 +2013,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-16543</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Abdelhamid Naceri' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Abdelhamid Naceri' was reported to the affected vendor on: 2022-06-28, 19 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2021,7 +2023,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17701</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-28, 19 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2031,7 +2033,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17726</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 19 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2041,7 +2043,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17737</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Reno Robert of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Reno Robert of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 19 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2051,7 +2053,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17370</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Aaron Ferber' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Aaron Ferber' was reported to the affected vendor on: 2022-06-28, 19 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2061,7 +2063,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17727</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 18 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 19 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2071,7 +2073,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17713</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 23 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2081,7 +2083,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17671</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Tran Van Khang - khangkito (VinCSS)' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Tran Van Khang - khangkito (VinCSS)' was reported to the affected vendor on: 2022-06-24, 23 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2091,7 +2093,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17714</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 23 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2101,7 +2103,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17718</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 23 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2111,7 +2113,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17712</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 23 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2121,7 +2123,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17702</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 23 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2131,7 +2133,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17661</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-24, 23 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2141,7 +2143,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17329</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 4.3 (AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Jeonghoon Shin(@singi21a) at Theori' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 4.3 (AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Jeonghoon Shin(@singi21a) at Theori' was reported to the affected vendor on: 2022-06-24, 23 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2151,7 +2153,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-16989</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'kdot' was reported to the affected vendor on: 2022-06-24, 22 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'kdot' was reported to the affected vendor on: 2022-06-24, 23 days ago. The vendor is given until 2022-10-22 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2171,7 +2173,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17680</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 9.8 (AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 9.8 (AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-22, 25 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2181,7 +2183,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17681</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-22, 25 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2191,7 +2193,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-16895</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-22, 25 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2201,7 +2203,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17643</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.1 (AV:A/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.1 (AV:A/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-22, 25 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2211,7 +2213,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17463</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.6 (AV:P/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Jedar' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.6 (AV:P/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Jedar' was reported to the affected vendor on: 2022-06-22, 25 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2221,7 +2223,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17708</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Hossein Lotfi of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Hossein Lotfi of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-22, 25 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2231,7 +2233,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-16923</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Lynn and Lays (@_L4ys)' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Lynn and Lays (@_L4ys)' was reported to the affected vendor on: 2022-06-22, 25 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2241,7 +2243,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17364</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Eduardo Braun Prado' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Eduardo Braun Prado' was reported to the affected vendor on: 2022-06-22, 25 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2251,7 +2253,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17657</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Tran Van Khang - khangkito (VinCSS)' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Tran Van Khang - khangkito (VinCSS)' was reported to the affected vendor on: 2022-06-22, 25 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2261,7 +2263,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17627</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'rgod' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'rgod' was reported to the affected vendor on: 2022-06-22, 25 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2271,7 +2273,7 @@ U.S. FTC Vows To Crack Down On Illegal Use And Sharing Of Citizens’ Sensitive 
         <id>ZDI-CAN-17658</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Tran Van Khang - khangkito (VinCSS)' was reported to the affected vendor on: 2022-06-22, 24 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Tran Van Khang - khangkito (VinCSS)' was reported to the affected vendor on: 2022-06-22, 25 days ago. The vendor is given until 2022-10-20 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
