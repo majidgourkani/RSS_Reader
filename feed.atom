@@ -2,10 +2,418 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://majidgourkani.github.io/RSS_Reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-24T00:59:43.849Z</updated>
+    <updated>2022-07-25T00:55:12.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://majidgourkani.github.io/RSS_Reader/index.html"/>
     <link rel="self" href="https://majidgourkani.github.io/RSS_Reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google rules blocked children’s diabetes app]]></title>
+        <id>https://gixtools.net/2022/07/google-rules-blocked-childrens-diabetes-app/</id>
+        <link href="https://gixtools.net/2022/07/google-rules-blocked-childrens-diabetes-app/"/>
+        <updated>2022-07-25T00:00:51.000Z</updated>
+        <summary type="html"><![CDATA[An NHS-recommended app says Google will not permit it to send text message alerts about glucose levels. Source:: BBC News – Technology
+The post Google rules blocked children’s diabetes app appeared first on GIXtools.]]></summary>
+        <author>
+            <name>GIXnews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The tech helping to bring you your morning coffee]]></title>
+        <id>https://gixtools.net/2022/07/the-tech-helping-to-bring-you-your-morning-coffee/</id>
+        <link href="https://gixtools.net/2022/07/the-tech-helping-to-bring-you-your-morning-coffee/"/>
+        <updated>2022-07-24T23:15:44.000Z</updated>
+        <summary type="html"><![CDATA[How Brazil, the world’s largest grower of coffee, is turning to technology to boost production. Source:: BBC News – Technology
+The post The tech helping to bring you your morning coffee appeared first on GIXtools.]]></summary>
+        <author>
+            <name>GIXnews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 212[.]192[.]241[.]21:443]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-212-192-241-21-port-443/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-212-192-241-21-port-443/"/>
+        <updated>2022-07-24T23:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 101[.]35[.]49[.]236:80]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-101-35-49-236-port-80/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-101-35-49-236-port-80/"/>
+        <updated>2022-07-24T23:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 80[.]66[.]88[.]127:80]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-80-66-88-127-port-80/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-80-66-88-127-port-80/"/>
+        <updated>2022-07-24T23:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 45[.]77[.]246[.]96:443]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-45-77-246-96-port-443/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-45-77-246-96-port-443/"/>
+        <updated>2022-07-24T23:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 146[.]0[.]72[.]97:443]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-146-0-72-97-port-443/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-146-0-72-97-port-443/"/>
+        <updated>2022-07-24T23:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 84[.]32[.]188[.]54:443]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-84-32-188-54-port-443/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-84-32-188-54-port-443/"/>
+        <updated>2022-07-24T23:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT Security News Weekly Summary – Week 29]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107788</id>
+        <link href="https://www.itsecuritynews.info/it-security-news-weekly-summary-week-29-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=it-security-news-weekly-summary-week-29-3"/>
+        <updated>2022-07-24T21:59:46.000Z</updated>
+        <summary type="html"><![CDATA[IT Security News Daily Summary 2022-07-24 Most Important Security Tools For Security Researchers & Malware Analyst Hacker Offers 5.4 million Twitter Account Details for $30,000 (ISC)² Pledges 1 Million Certified in Cybersecurity Microsoft Hit by Huge Service Outage T-Mobile Agrees…
+Read more →
+IT Security News Weekly Summary – Week 29 first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT Security News Daily Summary 2022-07-24]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107786</id>
+        <link href="https://www.itsecuritynews.info/it-security-news-daily-summary-2022-07-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=it-security-news-daily-summary-2022-07-24"/>
+        <updated>2022-07-24T21:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Most Important Security Tools For Security Researchers & Malware Analyst Hacker Offers 5.4 million Twitter Account Details for $30,000 (ISC)² Pledges 1 Million Certified in Cybersecurity Microsoft Hit by Huge Service Outage T-Mobile Agrees to Pay $350M to Users in…
+Read more →
+IT Security News Daily Summary 2022-07-24 first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Important Security Tools For Security Researchers & Malware Analyst]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107782</id>
+        <link href="https://www.itsecuritynews.info/most-important-security-tools-for-security-researchers-malware-analyst/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=most-important-security-tools-for-security-researchers-malware-analyst"/>
+        <updated>2022-07-24T20:06:31.000Z</updated>
+        <summary type="html"><![CDATA[Security Professionals always need to learn many tools, techniques, and concepts to analyze sophisticated Threats and current cyber attacks. Here we are going to see some of the most important tools, books, Resources which is mainly using for Malware Analysis…
+Read more →
+Most Important Security Tools For Security Researchers & Malware Analyst first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacker Offers 5.4 million Twitter Account Details for $30,000]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107779</id>
+        <link href="https://www.itsecuritynews.info/hacker-offers-5-4-million-twitter-account-details-for-30000/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hacker-offers-5-4-million-twitter-account-details-for-30000"/>
+        <updated>2022-07-24T19:06:27.000Z</updated>
+        <summary type="html"><![CDATA[A threat actor acquired data from 5.4 million Twitter accounts by exploiting a now-patched vulnerability in the popular social networking site. Hacker is currently selling the stolen information on the prominent hacker site Breached Forums.  In January, a Hacker…
+Read more →
+Hacker Offers 5.4 million Twitter Account Details for $30,000 first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(ISC)² Pledges 1 Million Certified in Cybersecurity]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107777</id>
+        <link href="https://www.itsecuritynews.info/isc%c2%b2-pledges-1-million-certified-in-cybersecurity-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=isc%25c2%25b2-pledges-1-million-certified-in-cybersecurity-2"/>
+        <updated>2022-07-24T16:36:49.000Z</updated>
+        <summary type="html"><![CDATA[At (ISC)² we are committed to positively impacting the cybersecurity industry in a big way. The board of directors and (ISC)² leadership is pleased to announce that we will provide free entry-level cybersecurity certification exams and self-paced educational program courses…
+Read more →
+(ISC)² Pledges 1 Million Certified in Cybersecurity first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Hit by Huge Service Outage]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107775</id>
+        <link href="https://www.itsecuritynews.info/microsoft-hit-by-huge-service-outage/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=microsoft-hit-by-huge-service-outage"/>
+        <updated>2022-07-24T16:36:30.000Z</updated>
+        <summary type="html"><![CDATA[This week’s 6-hour-long global outage of Microsoft 365 was caused by a flawed Enterprise Configuration Service (ECS) deployment, as per a preliminary post-incident review. This deployment caused cascade errors and availability effects across numerous locations. ECS is an internal central…
+Read more →
+Microsoft Hit by Huge Service Outage first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T-Mobile Agrees to Pay $350M to Users in Data Breach Settlement]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107773</id>
+        <link href="https://www.itsecuritynews.info/t-mobile-agrees-to-pay-350m-to-users-in-data-breach-settlement/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=t-mobile-agrees-to-pay-350m-to-users-in-data-breach-settlement"/>
+        <updated>2022-07-24T16:36:11.000Z</updated>
+        <summary type="html"><![CDATA[This week, T-Mobile agreed to pay $350 million to settle litigation brought over an August 2021 cyberattack in which a hacker siphoned private information belonging to an estimated 76.6 million people.  According to an SEC filing Friday afternoon, the…
+Read more →
+T-Mobile Agrees to Pay $350M to Users in Data Breach Settlement first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Your Web Apps With an API Gateway]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107770</id>
+        <link href="https://www.itsecuritynews.info/secure-your-web-apps-with-an-api-gateway/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=secure-your-web-apps-with-an-api-gateway"/>
+        <updated>2022-07-24T16:07:10.000Z</updated>
+        <summary type="html"><![CDATA[API management solutions, also known as API gateways, are a must in the day and age of APIs. However, once you’ve set up such a gateway, you can use it for different purposes unrelated to APIs. Today, I want to…
+Read more →
+Secure Your Web Apps With an API Gateway first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[History Repeats Itself]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107768</id>
+        <link href="https://www.itsecuritynews.info/history-repeats-itself/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=history-repeats-itself"/>
+        <updated>2022-07-24T16:06:55.000Z</updated>
+        <summary type="html"><![CDATA[It’s said that those who do not study history are doomed to repeat it. I’d suggest that the adage should be extended to, “those who do not study history and learn from her lessons are doomed to repeat it.” My…
+Read more →
+History Repeats Itself first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The United States Learned From Iraq and Afghanistan. Russia Didn’t.]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107766</id>
+        <link href="https://www.itsecuritynews.info/the-united-states-learned-from-iraq-and-afghanistan-russia-didnt/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-united-states-learned-from-iraq-and-afghanistan-russia-didnt"/>
+        <updated>2022-07-24T16:06:38.000Z</updated>
+        <summary type="html"><![CDATA[U.S. troops patrol near Sar Howza, Afghanistan, on Sept. 4, 2009. Photo credit: Staff Sgt. Andrew Smith/Combat Camera/Public Domain via DVIDS Editor’s Note: As the United States orients its strategy around great power competition, questions have arisen as to whether…
+Read more →
+The United States Learned From Iraq and Afghanistan. Russia Didn’t. first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chess robot breaks seven-year-old boy’s finger during Moscow Open]]></title>
+        <id>https://gixtools.net/2022/07/chess-robot-breaks-seven-year-old-boys-finger-during-moscow-open/</id>
+        <link href="https://gixtools.net/2022/07/chess-robot-breaks-seven-year-old-boys-finger-during-moscow-open/"/>
+        <updated>2022-07-24T15:21:06.000Z</updated>
+        <summary type="html"><![CDATA[The child was trying to make his next move at the Moscow Open when the robot grabbed him. Source:: BBC News – Technology
+The post Chess robot breaks seven-year-old boy’s finger during Moscow Open appeared first on GIXtools.]]></summary>
+        <author>
+            <name>GIXnews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SonicWall: Patch Critical SQL Injection Flaw Immediately]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107763</id>
+        <link href="https://www.itsecuritynews.info/sonicwall-patch-critical-sql-injection-flaw-immediately/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sonicwall-patch-critical-sql-injection-flaw-immediately"/>
+        <updated>2022-07-24T15:06:10.000Z</updated>
+        <summary type="html"><![CDATA[SonicWall, a security firm, issued patches to fix a severe SQL injection (SQLi) vulnerability in its Analytics On-Prem and Global Management System (GMS) products.  SonicWall patched a significant SQL injection (SQLi) vulnerability in its Analytics On-Prem and Global Management…
+Read more →
+SonicWall: Patch Critical SQL Injection Flaw Immediately first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is APT28 behind the STIFF#BIZON attacks attributed to North Korea-linked APT37?]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107759</id>
+        <link href="https://www.itsecuritynews.info/is-apt28-behind-the-stiffbizon-attacks-attributed-to-north-korea-linked-apt37/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=is-apt28-behind-the-stiffbizon-attacks-attributed-to-north-korea-linked-apt37"/>
+        <updated>2022-07-24T14:06:39.000Z</updated>
+        <summary type="html"><![CDATA[North Korea-linked APT37 group targets high-value organizations in the Czech Republic, Poland, and other countries. Researchers from the Securonix Threat Research (STR) team have uncovered a new attack campaign, tracked as STIFF#BIZON, targeting high-value organizations in multiple countries, including Czech…
+Read more →
+Is APT28 behind the STIFF#BIZON attacks attributed to North Korea-linked APT37? first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is APT28 behind the STIFF#BIZON attacks attributed to North Korea-linked APT37?]]></title>
+        <id>https://www.redpacketsecurity.com/is-apt28-behind-the-stiffbizon-attacks-attributed-to-north-korea-linked-apt37/</id>
+        <link href="https://www.redpacketsecurity.com/is-apt28-behind-the-stiffbizon-attacks-attributed-to-north-korea-linked-apt37/"/>
+        <updated>2022-07-24T14:03:03.000Z</updated>
+        <summary type="html"><![CDATA[North Korea-linked APT37 group targets high-value organizations in the Czech Republic, Poland, and other countries....]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China launches second module for its space station Heavenly Palace]]></title>
+        <id>https://gixtools.net/2022/07/china-launches-second-module-for-its-space-station-heavenly-palace/</id>
+        <link href="https://gixtools.net/2022/07/china-launches-second-module-for-its-space-station-heavenly-palace/"/>
+        <updated>2022-07-24T13:37:54.000Z</updated>
+        <summary type="html"><![CDATA[Tiangong or Heavenly Palace is scheduled to be operational by the end of 2022. Source:: BBC News – Technology
+The post China launches second module for its space station Heavenly Palace appeared first on GIXtools.]]></summary>
+        <author>
+            <name>GIXnews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Safely Lend Someone Else Your Phone]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107757</id>
+        <link href="https://www.itsecuritynews.info/how-to-safely-lend-someone-else-your-phone/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-safely-lend-someone-else-your-phone"/>
+        <updated>2022-07-24T13:35:44.000Z</updated>
+        <summary type="html"><![CDATA[The next time someone wants to borrow your device to make a call or take a picture, take these steps to protect your privacy. This article has been indexed from Security Latest Read the original article: How to Safely Lend…
+Read more →
+How to Safely Lend Someone Else Your Phone first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doenerium – Fully Undetected Grabber (Grabs Wallets, Passwords, Cookies, Modifies Discord Client Etc.)]]></title>
+        <id>https://www.redpacketsecurity.com/doenerium-fully-undetected-grabber-grabs-wallets-passwords-cookies-modifies-discord-client-etc/</id>
+        <link href="https://www.redpacketsecurity.com/doenerium-fully-undetected-grabber-grabs-wallets-passwords-cookies-modifies-discord-client-etc/"/>
+        <updated>2022-07-24T13:02:57.000Z</updated>
+        <summary type="html"><![CDATA[Fully Undetected Grabber (Grabs Wallets, Passwords, Cookies, Modifies Discord Client Etc.) Features Stealer Discord Token...]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 146[.]0[.]72[.]94:80]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-146-0-72-94-port-80/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-146-0-72-94-port-80/"/>
+        <updated>2022-07-24T11:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 107[.]170[.]109[.]82:443]]></title>
+        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-107-170-109-82-port-443/</id>
+        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-107-170-109-82-port-443/"/>
+        <updated>2022-07-24T11:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Affairs newsletter Round 375 by Pierluigi Paganini]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107747</id>
+        <link href="https://www.itsecuritynews.info/security-affairs-newsletter-round-375-by-pierluigi-paganini/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=security-affairs-newsletter-round-375-by-pierluigi-paganini"/>
+        <updated>2022-07-24T09:06:56.000Z</updated>
+        <summary type="html"><![CDATA[A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box. If you want to also receive for free the newsletter with the international press subscribe here. FBI…
+Read more →
+Security Affairs newsletter Round 375 by Pierluigi Paganini first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week in review: The future of Metasploit, detecting lateral movement, new issue of (IN)SECURE Magazine]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107745</id>
+        <link href="https://www.itsecuritynews.info/week-in-review-the-future-of-metasploit-detecting-lateral-movement-new-issue-of-insecure-magazine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=week-in-review-the-future-of-metasploit-detecting-lateral-movement-new-issue-of-insecure-magazine"/>
+        <updated>2022-07-24T09:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Beware of password-cracking software for PLCs and HMIs! A threat actor is targeting industrial engineers and operators with trojanized password-cracking software for programmable logic controllers…
+Read more →
+Week in review: The future of Metasploit, detecting lateral movement, new issue of (IN)SECURE Magazine first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A database containing data of 5.4 million Twitter accounts available for sale]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107743</id>
+        <link href="https://www.itsecuritynews.info/a-database-containing-data-of-5-4-million-twitter-accounts-available-for-sale/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-database-containing-data-of-5-4-million-twitter-accounts-available-for-sale"/>
+        <updated>2022-07-24T08:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Threat actor leaked data of 5.4 million Twitter users that were obtained by exploiting a now patched flaw in the popular platform. A threat actor has leaked data of 5.4 million Twitter accounts that were obtained by exploiting a now-fixed…
+Read more →
+A database containing data of 5.4 million Twitter accounts available for sale first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penetration testing]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107739</id>
+        <link href="https://www.itsecuritynews.info/penetration-testing-81/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=penetration-testing-81"/>
+        <updated>2022-07-24T08:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Penetration testing is the technical analysis of the safety level of IT systems and networks. We offer a complete investigation of the hardware / software systems for security vulnerabilities. If you have at least one online service, then you must…
+Read more →
+Penetration testing first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Computing Penetration Testing Checklist & Important Considerations]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107734</id>
+        <link href="https://www.itsecuritynews.info/cloud-computing-penetration-testing-checklist-important-considerations-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cloud-computing-penetration-testing-checklist-important-considerations-2"/>
+        <updated>2022-07-24T06:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Cloud Computing Penetration Testing is a method of actively checking and examining the Cloud system by simulating the attack from the malicious code. Cloud computing is the shared responsibility of Cloud provider and client who earn the service from the…
+Read more →
+Cloud Computing Penetration Testing Checklist & Important Considerations first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siemens Energy Takes Next Step to Protect Critical Infrastructure]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107729</id>
+        <link href="https://www.itsecuritynews.info/siemens-energy-takes-next-step-to-protect-critical-infrastructure/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=siemens-energy-takes-next-step-to-protect-critical-infrastructure"/>
+        <updated>2022-07-24T04:36:38.000Z</updated>
+        <summary type="html"><![CDATA[WASHINGTON–(BUSINESS WIRE)–Siemens Energy Inc, one of the world’s leading energy technology companies, announces it is joining the Amazon Web Services (AWS) Partner Network (APN), a global community of partners that leverage programs, expertise, and resources to build, market, and sell…
+Read more →
+Siemens Energy Takes Next Step to Protect Critical Infrastructure first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPC: The Digital Commerce Event to Host Atlanta Conference Aug. 22 to 24]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107727</id>
+        <link href="https://www.itsecuritynews.info/mpc-the-digital-commerce-event-to-host-atlanta-conference-aug-22-to-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mpc-the-digital-commerce-event-to-host-atlanta-conference-aug-22-to-24"/>
+        <updated>2022-07-24T04:36:19.000Z</updated>
+        <summary type="html"><![CDATA[ATLANTA–(BUSINESS WIRE)–MPC: The Digital Commerce Event today announced its in-person return on Aug. 22 to 24, 2022 at the Westin Atlanta Perimeter North following two years of virtual conferences. The live conference will bring a diverse cohort of fintech, banking,…
+Read more →
+MPC: The Digital Commerce Event to Host Atlanta Conference Aug. 22 to 24 first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISSP Recognized as Top Cybersecurity Certification]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107725</id>
+        <link href="https://www.itsecuritynews.info/cissp-recognized-as-top-cybersecurity-certification-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cissp-recognized-as-top-cybersecurity-certification-3"/>
+        <updated>2022-07-24T04:36:01.000Z</updated>
+        <summary type="html"><![CDATA[The CISSP (Certified Information Systems Security Professional) certification got a few thumbs-up in a recent Dice article about whether cybersecurity jobseekers need certifications to land a position. Several cybersecurity professionals quoted in the article named the CISSP as a valuable…
+Read more →
+CISSP Recognized as Top Cybersecurity Certification first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Your Cloud with Zero Trust and Least Privilege]]></title>
+        <id>https://www.itsecuritynews.info/?p=1107717</id>
+        <link href="https://www.itsecuritynews.info/securing-your-cloud-with-zero-trust-and-least-privilege/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=securing-your-cloud-with-zero-trust-and-least-privilege"/>
+        <updated>2022-07-24T01:06:01.000Z</updated>
+        <summary type="html"><![CDATA[Two great changes have happened in IT in the past years: cloud adoption and the transition to remote work. Each of these changes has required IT and DevOps teams to shift their perspectives and adopt new methodologies and technologies. But…
+Read more →
+Securing Your Cloud with Zero Trust and Least Privilege first appeared on IT Security News.]]></summary>
+        <author>
+            <name>script</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CommScope partners with Microsoft to help transform industrial manufacturing]]></title>
         <id>https://www.itsecuritynews.info/?p=1107714</id>
@@ -28,106 +436,6 @@ Read more →
 Axonius announces integration with AWS to help customers strengthen their security posture first appeared on IT Security News.]]></summary>
         <author>
             <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackCat/ALPHV Ransomware Victim: KKJM Lawfirm]]></title>
-        <id>https://www.redpacketsecurity.com/alphv-ransomware-victim-kkjm-lawfirm/</id>
-        <link href="https://www.redpacketsecurity.com/alphv-ransomware-victim-kkjm-lawfirm/"/>
-        <updated>2022-07-23T23:02:39.000Z</updated>
-        <summary type="html"><![CDATA[NOTE: No files or stolen information are [exfiltrated/downloaded/taken/hosted/seen/reposted/disclosed] by RedPacket Security. Any legal issues relating...]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 141[.]98[.]80[.]128:10001]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-141-98-80-128-port-10001/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-141-98-80-128-port-10001/"/>
-        <updated>2022-07-23T23:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 107[.]175[.]221[.]59:443]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-107-175-221-59-port-443/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-107-175-221-59-port-443/"/>
-        <updated>2022-07-23T23:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 101[.]35[.]14[.]238:8088]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-101-35-14-238-port-8088/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-101-35-14-238-port-8088/"/>
-        <updated>2022-07-23T23:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 174[.]138[.]43[.]240:80]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-174-138-43-240-port-80/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-174-138-43-240-port-80/"/>
-        <updated>2022-07-23T23:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 209[.]141[.]40[.]224:444]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-209-141-40-224-port-444/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-209-141-40-224-port-444/"/>
-        <updated>2022-07-23T23:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 116[.]62[.]157[.]137:443]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-116-62-157-137-port-443/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-116-62-157-137-port-443/"/>
-        <updated>2022-07-23T23:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 120[.]79[.]25[.]151:443]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-120-79-25-151-port-443/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-120-79-25-151-port-443/"/>
-        <updated>2022-07-23T23:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 121[.]36[.]175[.]53:80]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-121-36-175-53-port-80/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-121-36-175-53-port-80/"/>
-        <updated>2022-07-23T23:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobalt Stike Beacon Detected – 37[.]221[.]65[.]221:8010]]></title>
-        <id>https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-37-221-65-221-port-8010/</id>
-        <link href="https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-37-221-65-221-port-8010/"/>
-        <updated>2022-07-23T23:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Cobalt Strike Beacon Detection Alerts]]></summary>
-        <author>
-            <name>admin</name>
         </author>
     </entry>
     <entry>
@@ -409,7 +717,7 @@ Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡ fir
         <id>https://www.bleepingcomputer.com/news/security/chrome-use-subject-to-restrictions-in-dutch-schools-over-data-security-concerns/</id>
         <link href="https://www.bleepingcomputer.com/news/security/chrome-use-subject-to-restrictions-in-dutch-schools-over-data-security-concerns/"/>
         <updated>2022-07-23T15:12:06.000Z</updated>
-        <summary type="html"><![CDATA[The Ministry of Education in the Netherlands has decided to place a conditional ban on the use of the Chrome OS and Chrome web browser until August 2023 over concerns about data privacy. [...]]]></summary>
+        <summary type="html"><![CDATA[The Ministry of Education in the Netherlands has decided to implement restrictions on the use of the Chrome OS and Chrome web browser until August 2023 over concerns about data privacy. [...]]]></summary>
         <author>
             <name>Bill Toulas</name>
         </author>
@@ -1116,54 +1424,6 @@ Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡ fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Americans Deserve More Than The Current American Data Privacy Protection Act]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107514</id>
-        <link href="https://www.itsecuritynews.info/americans-deserve-more-than-the-current-american-data-privacy-protection-act/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=americans-deserve-more-than-the-current-american-data-privacy-protection-act"/>
-        <updated>2022-07-22T22:36:24.000Z</updated>
-        <summary type="html"><![CDATA[EFF is disappointed by the latest draft of the American Data Privacy Protection Act, or the ADPPA (H.R. 8152), a federal comprehensive data privacy bill. The bill passed the U.S. House Energy and Commerce committee on Wednesday, and is headed…
-Read more →
-Americans Deserve More Than The Current American Data Privacy Protection Act first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107511</id>
-        <link href="https://www.itsecuritynews.info/lightning-framework-new-undetected-swiss-army-knife-linux-malware-%e2%9a%a1-77/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lightning-framework-new-undetected-swiss-army-knife-linux-malware-%25e2%259a%25a1-77"/>
-        <updated>2022-07-22T22:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Lightning Framework is a new undetected Swiss Army Knife-like Linux malware that has modular plugins and the ability to install rootkits. Year after year Linux environments increasingly become the target of malware due to continued threat actor interest in the…
-Read more →
-Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡ first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICYMI: Neopets & the Gaming Problem; SolarWinds Hackers Are Back; Google Ads Abused]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107509</id>
-        <link href="https://www.itsecuritynews.info/icymi-neopets-solarwinds-hackers-are-back-google-ads-abused/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=icymi-neopets-solarwinds-hackers-are-back-google-ads-abused"/>
-        <updated>2022-07-22T22:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Dark Reading’s weekly roundup of all the OTHER important stories of the week. This article has been indexed from Dark Reading Read the original article: ICYMI: Neopets & the Gaming Problem; SolarWinds Hackers Are Back; Google Ads Abused
-Read more →
-ICYMI: Neopets & the Gaming Problem; SolarWinds Hackers Are Back; Google Ads Abused first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft closes off two avenues of attack: Office macros, RDP brute-forcing]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107507</id>
-        <link href="https://www.itsecuritynews.info/microsoft-closes-off-two-avenues-of-attack-office-macros-rdp-brute-forcing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=microsoft-closes-off-two-avenues-of-attack-office-macros-rdp-brute-forcing"/>
-        <updated>2022-07-22T22:06:27.000Z</updated>
-        <summary type="html"><![CDATA[Blockade against web-sourced VBA scripts is back on by default Microsoft is shutting the door on a couple of routes cybercriminals have used to attack users and networks.… This article has been indexed from The Register – Security Read the…
-Read more →
-Microsoft closes off two avenues of attack: Office macros, RDP brute-forcing first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hacker selling Twitter account data of 5.4 million users for $30k]]></title>
         <id>https://www.bleepingcomputer.com/news/security/hacker-selling-twitter-account-data-of-54-million-users-for-30k/</id>
         <link href="https://www.bleepingcomputer.com/news/security/hacker-selling-twitter-account-data-of-54-million-users-for-30k/"/>
@@ -1171,54 +1431,6 @@ Microsoft closes off two avenues of attack: Office macros, RDP brute-forcing fir
         <summary type="html"><![CDATA[Twitter has suffered a data breach after threat actors used a vulnerability to build a database of phone numbers and email addresses belonging to 5.4 million accounts, with the data now up for sale on a hacker forum for $30,000.  [...]]]></summary>
         <author>
             <name>Lawrence Abrams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT Security News Daily Summary 2022-07-22]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107505</id>
-        <link href="https://www.itsecuritynews.info/it-security-news-daily-summary-2022-07-22/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=it-security-news-daily-summary-2022-07-22"/>
-        <updated>2022-07-22T21:55:41.000Z</updated>
-        <summary type="html"><![CDATA[Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡ TSA revises cyber rules for pipelines Surveillance is pervasive: Yes, you are being watched, even if no one is looking for you Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware…
-Read more →
-IT Security News Daily Summary 2022-07-22 first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107503</id>
-        <link href="https://www.itsecuritynews.info/lightning-framework-new-undetected-swiss-army-knife-linux-malware-%e2%9a%a1-76/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lightning-framework-new-undetected-swiss-army-knife-linux-malware-%25e2%259a%25a1-76"/>
-        <updated>2022-07-22T21:36:52.000Z</updated>
-        <summary type="html"><![CDATA[Lightning Framework is a new undetected Swiss Army Knife-like Linux malware that has modular plugins and the ability to install rootkits. Year after year Linux environments increasingly become the target of malware due to continued threat actor interest in the…
-Read more →
-Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡ first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TSA revises cyber rules for pipelines]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107501</id>
-        <link href="https://www.itsecuritynews.info/tsa-revises-cyber-rules-for-pipelines/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tsa-revises-cyber-rules-for-pipelines"/>
-        <updated>2022-07-22T21:36:35.000Z</updated>
-        <summary type="html"><![CDATA[The Transportation Security Administration reissued its pipeline cybersecurity directive to offer flexibility to operators. This article has been indexed from FCW – All Content Read the original article: TSA revises cyber rules for pipelines
-Read more →
-TSA revises cyber rules for pipelines first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surveillance is pervasive: Yes, you are being watched, even if no one is looking for you]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107499</id>
-        <link href="https://www.itsecuritynews.info/surveillance-is-pervasive-yes-you-are-being-watched-even-if-no-one-is-looking-for-you/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=surveillance-is-pervasive-yes-you-are-being-watched-even-if-no-one-is-looking-for-you"/>
-        <updated>2022-07-22T21:36:17.000Z</updated>
-        <summary type="html"><![CDATA[It’s important to recognize how physical and digital tracking work together. This article has been indexed from GCN – All Content Read the original article: Surveillance is pervasive: Yes, you are being watched, even if no one is looking for you
-Read more →
-Surveillance is pervasive: Yes, you are being watched, even if no one is looking for you first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
         </author>
     </entry>
     <entry>
@@ -1244,54 +1456,6 @@ The post AWS Lambda announces support for a new IAM condition key, lambda:Source
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107495</id>
-        <link href="https://www.itsecuritynews.info/lightning-framework-new-undetected-swiss-army-knife-linux-malware-%e2%9a%a1-75/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lightning-framework-new-undetected-swiss-army-knife-linux-malware-%25e2%259a%25a1-75"/>
-        <updated>2022-07-22T21:08:11.000Z</updated>
-        <summary type="html"><![CDATA[Lightning Framework is a new undetected Swiss Army Knife-like Linux malware that has modular plugins and the ability to install rootkits. Year after year Linux environments increasingly become the target of malware due to continued threat actor interest in the…
-Read more →
-Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡ first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t dive head first into that crypto pool, FBI warns]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107493</id>
-        <link href="https://www.itsecuritynews.info/dont-dive-head-first-into-that-crypto-pool-fbi-warns/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dont-dive-head-first-into-that-crypto-pool-fbi-warns"/>
-        <updated>2022-07-22T21:07:58.000Z</updated>
-        <summary type="html"><![CDATA[Liquidity scams cost victims more than $70m, agents say The FBI has warned cryptocurrency owners and would-be owners about a scam involving phony liquidity mining that the bureau says has cost victims more than $70 million in combined losses since…
-Read more →
-Don’t dive head first into that crypto pool, FBI warns first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SonicWall Warns of Critical GMS SQL Injection Vulnerability]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107491</id>
-        <link href="https://www.itsecuritynews.info/sonicwall-warns-of-critical-gms-sql-injection-vulnerability/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sonicwall-warns-of-critical-gms-sql-injection-vulnerability"/>
-        <updated>2022-07-22T21:07:45.000Z</updated>
-        <summary type="html"><![CDATA[Network security appliance vendor SonicWall late Thursday shipped urgent patches for a critical flaw in its Global Management System (GMS) software, warning that the issue exposes businesses to remote hacker attacks. read more This article has been indexed from Cybersecurity…
-Read more →
-SonicWall Warns of Critical GMS SQL Injection Vulnerability first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SonicWall Issues Patch for Critical Bug Affecting its Analytics and GMS Products]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107489</id>
-        <link href="https://www.itsecuritynews.info/sonicwall-issues-patch-for-critical-bug-affecting-its-analytics-and-gms-products/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sonicwall-issues-patch-for-critical-bug-affecting-its-analytics-and-gms-products"/>
-        <updated>2022-07-22T21:07:31.000Z</updated>
-        <summary type="html"><![CDATA[Network security company SonicWall on Friday rolled out fixes to mitigate a critical SQL injection (SQLi) vulnerability affecting its Analytics On-Prem and Global Management System (GMS) products. The vulnerability, tracked as CVE-2022-22280, is rated 9.4 for severity on the CVSS scoring…
-Read more →
-SonicWall Issues Patch for Critical Bug Affecting its Analytics and GMS Products first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in Asia Pacific (Sydney) Region]]></title>
         <id>https://gixtools.net/2022/07/amazon-rds-multi-az-option-with-up-to-2x-faster-transaction-commit-latency-is-now-available-in-asia-pacific-sydney-region/</id>
         <link href="https://gixtools.net/2022/07/amazon-rds-multi-az-option-with-up-to-2x-faster-transaction-commit-latency-is-now-available-in-asia-pacific-sydney-region/"/>
@@ -1310,170 +1474,6 @@ The post Amazon RDS Multi-AZ option with up to 2x faster transaction commit late
         <summary type="html"><![CDATA[Digital security giant Entrust has confirmed that it suffered a cyberattack where threat actors breached their network and stole data from internal systems. [...]]]></summary>
         <author>
             <name>Lawrence Abrams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107486</id>
-        <link href="https://www.itsecuritynews.info/lightning-framework-new-undetected-swiss-army-knife-linux-malware-%e2%9a%a1-74/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lightning-framework-new-undetected-swiss-army-knife-linux-malware-%25e2%259a%25a1-74"/>
-        <updated>2022-07-22T20:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Lightning Framework is a new undetected Swiss Army Knife-like Linux malware that has modular plugins and the ability to install rootkits. Year after year Linux environments increasingly become the target of malware due to continued threat actor interest in the…
-Read more →
-Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡ first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Digital human’ teaches how to walk to protect your knees]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107484</id>
-        <link href="https://www.itsecuritynews.info/digital-human-teaches-how-to-walk-to-protect-your-knees/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=digital-human-teaches-how-to-walk-to-protect-your-knees"/>
-        <updated>2022-07-22T20:37:13.000Z</updated>
-        <summary type="html"><![CDATA[Knee-pain suffers can learn new ways of walking through a detailed computer simulation. This article has been indexed from GCN – All Content Read the original article: ‘Digital human’ teaches how to walk to protect your knees
-Read more →
-‘Digital human’ teaches how to walk to protect your knees first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107482</id>
-        <link href="https://www.itsecuritynews.info/lightning-framework-new-undetected-swiss-army-knife-linux-malware-%e2%9a%a1-73/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lightning-framework-new-undetected-swiss-army-knife-linux-malware-%25e2%259a%25a1-73"/>
-        <updated>2022-07-22T20:07:38.000Z</updated>
-        <summary type="html"><![CDATA[Lightning Framework is a new undetected Swiss Army Knife-like Linux malware that has modular plugins and the ability to install rootkits. Year after year Linux environments increasingly become the target of malware due to continued threat actor interest in the…
-Read more →
-Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡ first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Bugs Threaten to Crack Atlassian Confluence Workspaces Wide Open]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107480</id>
-        <link href="https://www.itsecuritynews.info/critical-bugs-threaten-to-crack-atlassian-confluence-workspaces-wide-open/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=critical-bugs-threaten-to-crack-atlassian-confluence-workspaces-wide-open"/>
-        <updated>2022-07-22T20:07:20.000Z</updated>
-        <summary type="html"><![CDATA[A hardcoded password associated with the Questions for Confluence app has been publicly released, which will likely lead to exploit attempts that give cyberattackers access to all Confluence content. This article has been indexed from Dark Reading Read the original…
-Read more →
-Critical Bugs Threaten to Crack Atlassian Confluence Workspaces Wide Open first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RememBear password manager is shutting down in July 2023]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107477</id>
-        <link href="https://www.itsecuritynews.info/remembear-password-manager-is-shutting-down-in-july-2023-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=remembear-password-manager-is-shutting-down-in-july-2023-2"/>
-        <updated>2022-07-22T19:37:54.000Z</updated>
-        <summary type="html"><![CDATA[RememBear is shutting down in July 2023. The password manager service was launched by TunnelBear Inc., in 2017. The VPN provider was acquired by McAfee in 2018. What happened to RememBear? An […] Thank you for being a Ghacks reader.…
-Read more →
-RememBear password manager is shutting down in July 2023 first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107475</id>
-        <link href="https://www.itsecuritynews.info/lightning-framework-new-undetected-swiss-army-knife-linux-malware-%e2%9a%a1-72/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lightning-framework-new-undetected-swiss-army-knife-linux-malware-%25e2%259a%25a1-72"/>
-        <updated>2022-07-22T19:37:37.000Z</updated>
-        <summary type="html"><![CDATA[Lightning Framework is a new undetected Swiss Army Knife-like Linux malware that has modular plugins and the ability to install rootkits. Year after year Linux environments increasingly become the target of malware due to continued threat actor interest in the…
-Read more →
-Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡ first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[insider threat]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107473</id>
-        <link href="https://www.itsecuritynews.info/insider-threat-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=insider-threat-2"/>
-        <updated>2022-07-22T19:37:20.000Z</updated>
-        <summary type="html"><![CDATA[This post doesn’t have text content, please click on the link below to view the original article. This article has been indexed from SearchSecurity Read the original article: insider threat
-Read more →
-insider threat first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strict China Tech Controls ‘To Continue’ After Record Didi Fine]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107470</id>
-        <link href="https://www.itsecuritynews.info/strict-china-tech-controls-to-continue-after-record-didi-fine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=strict-china-tech-controls-to-continue-after-record-didi-fine"/>
-        <updated>2022-07-22T19:07:54.000Z</updated>
-        <summary type="html"><![CDATA[Strict regulation of China’s tech giants likely to continue after record $1.2bn fine on Didi Global last week, even as authorities seek to encourage growth This article has been indexed from Silicon UK Read the original article: Strict China Tech…
-Read more →
-Strict China Tech Controls ‘To Continue’ After Record Didi Fine first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neopets Suffers Second Data Breach as 69 Million Accounts are Stolen]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107468</id>
-        <link href="https://www.itsecuritynews.info/neopets-suffers-second-data-breach-as-69-million-accounts-are-stolen-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=neopets-suffers-second-data-breach-as-69-million-accounts-are-stolen-2"/>
-        <updated>2022-07-22T19:07:41.000Z</updated>
-        <summary type="html"><![CDATA[By Waqas Neopets has acknowledged the data breach and currently urging users to change their passwords immediately. Neopets is a… This is a post from HackRead.com Read the original post: Neopets Suffers Second Data Breach as 69 Million Accounts are…
-Read more →
-Neopets Suffers Second Data Breach as 69 Million Accounts are Stolen first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡]]></title>
-        <id>https://www.itsecuritynews.info/?p=1107466</id>
-        <link href="https://www.itsecuritynews.info/lightning-framework-new-undetected-swiss-army-knife-linux-malware-%e2%9a%a1-71/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lightning-framework-new-undetected-swiss-army-knife-linux-malware-%25e2%259a%25a1-71"/>
-        <updated>2022-07-22T19:07:28.000Z</updated>
-        <summary type="html"><![CDATA[Lightning Framework is a new undetected Swiss Army Knife-like Linux malware that has modular plugins and the ability to install rootkits. Year after year Linux environments increasingly become the target of malware due to continued threat actor interest in the…
-Read more →
-Lightning Framework: New Undetected “Swiss Army Knife” Linux Malware ⚡ first appeared on IT Security News.]]></summary>
-        <author>
-            <name>script</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SonicWall Issues Patch for Critical Bug Affecting its Analytics and GMS Products]]></title>
-        <id>https://gixtools.net/2022/07/sonicwall-issues-patch-for-critical-bug-affecting-its-analytics-and-gms-products/</id>
-        <link href="https://gixtools.net/2022/07/sonicwall-issues-patch-for-critical-bug-affecting-its-analytics-and-gms-products/"/>
-        <updated>2022-07-22T18:39:32.000Z</updated>
-        <summary type="html"><![CDATA[Network security company SonicWall on Friday rolled out fixes to mitigate a critical SQL injection (SQLi) vulnerability affecting its Analytics On-Prem and Global Management System (GMS) products. The vulnerability, tracked as CVE-2022-22280, is rated 9.4 for severity on the CVSS scoring system and stems from what the company describes is an “improper neutralization of special elements”… Read More »SonicWall Issues Patch for Critical Bug Affecting its Analytics and GMS Products
-The post SonicWall Issues Patch for Critical Bug Affecting its Analytics and GMS Products appeared first on GIXtools.]]></summary>
-        <author>
-            <name>GIXnews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NetApp’s Spot PC: a foundation for a new desktop paradigm?]]></title>
-        <id>https://gixtools.net/2022/07/netapps-spot-pc-a-foundation-for-a-new-desktop-paradigm/</id>
-        <link href="https://gixtools.net/2022/07/netapps-spot-pc-a-foundation-for-a-new-desktop-paradigm/"/>
-        <updated>2022-07-22T18:06:00.000Z</updated>
-        <summary type="html"><![CDATA[After I wrote about NetApp’s Spot PC last month, I had a surprisingly nice call with Spot PC’s general manager, Jeff Treuhaft. He reminded me that this is still a very young offering and, given that, it makes more sense to focus on the product, not the channel or the brand. So, while Treuhaft didn’t… Read More »NetApp’s Spot PC: a foundation for a new desktop paradigm?
-The post NetApp’s Spot PC: a foundation for a new desktop paradigm? appeared first on GIXtools.]]></summary>
-        <author>
-            <name>GIXnews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup Audit Manager adds support for Amazon FSx for NetApp ONTAP]]></title>
-        <id>https://gixtools.net/2022/07/aws-backup-audit-manager-adds-support-for-amazon-fsx-for-netapp-ontap/</id>
-        <link href="https://gixtools.net/2022/07/aws-backup-audit-manager-adds-support-for-amazon-fsx-for-netapp-ontap/"/>
-        <updated>2022-07-22T17:43:02.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup Audit Manager now allows you to audit and report on the compliance of your data protection policies for Amazon FSx for NetApp ONTAP. Using AWS Backup Audit Manager, you can now continuously evaluate the data protection activity of your Amazon FSx for NetApp ONTAP resources and generate audit reports that can help you demonstrate compliance… Read More »AWS Backup Audit Manager adds support for Amazon FSx for NetApp ONTAP
-The post AWS Backup Audit Manager adds support for Amazon FSx for NetApp ONTAP appeared first on GIXtools.]]></summary>
-        <author>
-            <name>GIXnews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Combined OU and Accounts page now available in AWS Control Tower]]></title>
-        <id>https://gixtools.net/2022/07/combined-ou-and-accounts-page-now-available-in-aws-control-tower/</id>
-        <link href="https://gixtools.net/2022/07/combined-ou-and-accounts-page-now-available-in-aws-control-tower/"/>
-        <updated>2022-07-22T17:35:03.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the new Organization page in AWS Control Tower with a hierarchical view of all Organizational units (OUs) and accounts. Customers now have the ability to view, group, and manage their entire organizational structure through a single page. Source:: Amazon AWS
-The post Combined OU and Accounts page now available in AWS Control Tower appeared first on GIXtools.]]></summary>
-        <author>
-            <name>GIXnews</name>
         </author>
     </entry>
     <entry>
@@ -1531,7 +1531,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-18020</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1541,7 +1541,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16150</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1551,7 +1551,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17704</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.0 (AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'JeongOh Kyea of THEORI' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.0 (AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'JeongOh Kyea of THEORI' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1561,7 +1561,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17844</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1571,7 +1571,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16153</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1581,7 +1581,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-18011</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1591,7 +1591,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16151</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1601,7 +1601,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17846</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1611,7 +1611,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17838</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1621,7 +1621,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17589</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Exist(@exist91240480)' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Exist(@exist91240480)' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1631,7 +1631,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17368</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Noam Moshe of Claroty Research' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Noam Moshe of Claroty Research' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1641,7 +1641,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16149</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1651,7 +1651,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16154</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1661,7 +1661,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-18004</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Simon Zuckerbraun - Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Simon Zuckerbraun - Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1671,7 +1671,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17827</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1681,7 +1681,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16148</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1691,7 +1691,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-18012</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1701,7 +1701,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-18010</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1711,7 +1711,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-18009</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1721,7 +1721,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17926</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1731,7 +1731,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16928</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Lynn and Lays (@_L4ys)' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Lynn and Lays (@_L4ys)' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1741,7 +1741,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17924</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1751,7 +1751,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17337</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Simon Zuckerbraun - Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Simon Zuckerbraun - Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1761,7 +1761,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17911</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'khangkito - Tran Van Khang (VinCSS)' was reported to the affected vendor on: 2022-07-22, 1 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'khangkito - Tran Van Khang (VinCSS)' was reported to the affected vendor on: 2022-07-22, 2 days ago. The vendor is given until 2022-11-19 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1791,7 +1791,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17914</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1801,7 +1801,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17356</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.4 (AV:A/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Cyrille Chatras' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.4 (AV:A/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Cyrille Chatras' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1811,7 +1811,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17792</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1821,7 +1821,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17968</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1831,7 +1831,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17953</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1841,7 +1841,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17805</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1851,7 +1851,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17867</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1861,7 +1861,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17809</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1871,7 +1871,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17895</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1881,7 +1881,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17336</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.1 (AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Maxim Kutyavin (https://github.com/pwnhacker0x18)' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.1 (AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Maxim Kutyavin (https://github.com/pwnhacker0x18)' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1891,7 +1891,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17810</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1901,7 +1901,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17811</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 5.3 (AV:L/AC:H/PR:H/UI:N/S:C/C:N/I:N/A:H) severity vulnerability discovered by 'Lucas Leong (@_wmliang_) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 5.3 (AV:L/AC:H/PR:H/UI:N/S:C/C:N/I:N/A:H) severity vulnerability discovered by 'Lucas Leong (@_wmliang_) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1911,7 +1911,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17361</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Noam Moshe of Claroty Research' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Noam Moshe of Claroty Research' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1921,7 +1921,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17360</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.0 (AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Noam Moshe of Claroty Research' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.0 (AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Noam Moshe of Claroty Research' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1931,7 +1931,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17565</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1941,7 +1941,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17407</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1951,7 +1951,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17318</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1961,7 +1961,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17317</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1971,7 +1971,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17558</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1981,7 +1981,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17541</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -1991,7 +1991,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17408</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2001,7 +2001,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17563</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2011,7 +2011,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16147</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2021,7 +2021,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16144</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2031,7 +2031,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17540</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2041,7 +2041,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16146</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2051,7 +2051,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17686</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Abdelhamid Naceri' was reported to the affected vendor on: 2022-07-19, 4 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Abdelhamid Naceri' was reported to the affected vendor on: 2022-07-19, 5 days ago. The vendor is given until 2022-11-16 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2161,7 +2161,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17729</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.0 (AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-13, 10 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.0 (AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-13, 11 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2171,7 +2171,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17765</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 10 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 11 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2181,7 +2181,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17764</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 10 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 11 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2191,7 +2191,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17778</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-13, 10 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-13, 11 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2201,7 +2201,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17767</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 10 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-13, 11 days ago. The vendor is given until 2022-11-10 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2211,7 +2211,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17847</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Simon Zuckerbraun - Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-11, 12 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Simon Zuckerbraun - Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-11, 13 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2221,7 +2221,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17679</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Marcin Wiazowski' was reported to the affected vendor on: 2022-07-11, 12 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'Marcin Wiazowski' was reported to the affected vendor on: 2022-07-11, 13 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2231,7 +2231,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17647</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'hades_kito' was reported to the affected vendor on: 2022-07-11, 12 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'hades_kito' was reported to the affected vendor on: 2022-07-11, 13 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2241,7 +2241,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17568</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'namnp' was reported to the affected vendor on: 2022-07-11, 12 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H) severity vulnerability discovered by 'namnp' was reported to the affected vendor on: 2022-07-11, 13 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2251,7 +2251,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17652</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-11T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-11, 12 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-11, 13 days ago. The vendor is given until 2022-11-08 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2261,7 +2261,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17322</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 5.9 (AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H) severity vulnerability discovered by 'r00t4dm' was reported to the affected vendor on: 2022-07-08, 15 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 5.9 (AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H) severity vulnerability discovered by 'r00t4dm' was reported to the affected vendor on: 2022-07-08, 16 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2271,7 +2271,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16318</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Luca Barile' was reported to the affected vendor on: 2022-07-08, 15 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Luca Barile' was reported to the affected vendor on: 2022-07-08, 16 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2281,7 +2281,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17779</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 15 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 16 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2291,7 +2291,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17783</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 15 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 16 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2301,7 +2301,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17780</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 15 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-08, 16 days ago. The vendor is given until 2022-11-05 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2311,7 +2311,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17308</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-07, 16 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-07-07, 17 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2321,7 +2321,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17338</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Yonghwi Jin (@jinmo123) at Theori' was reported to the affected vendor on: 2022-07-07, 16 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Yonghwi Jin (@jinmo123) at Theori' was reported to the affected vendor on: 2022-07-07, 17 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2331,7 +2331,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17750</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 16 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 17 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2341,7 +2341,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17812</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.2 (AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 16 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.2 (AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 17 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2351,7 +2351,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17769</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-07-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.5 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 16 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.5 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N) severity vulnerability discovered by 'Piotr Bazydlo (@chudypb) of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-07-07, 17 days ago. The vendor is given until 2022-11-04 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2361,7 +2361,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17762</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2371,7 +2371,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16145</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 6.8 (AV:A/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2381,7 +2381,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17725</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2391,7 +2391,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17772</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2401,7 +2401,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17724</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Anonymous' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2411,7 +2411,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17756</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2421,7 +2421,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17776</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2431,7 +2431,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17758</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2441,7 +2441,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17757</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2451,7 +2451,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17760</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2461,7 +2461,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17773</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2471,7 +2471,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17774</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2481,7 +2481,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17775</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2491,7 +2491,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17777</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2501,7 +2501,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17761</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2511,7 +2511,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17759</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 23 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-30, 24 days ago. The vendor is given until 2022-10-28 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2521,7 +2521,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17728</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 25 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 3.3 (AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 26 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2531,7 +2531,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17358</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 5.3 (AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L) severity vulnerability discovered by 'Marcin Wiazowski' was reported to the affected vendor on: 2022-06-28, 25 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 5.3 (AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L) severity vulnerability discovered by 'Marcin Wiazowski' was reported to the affected vendor on: 2022-06-28, 26 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2541,7 +2541,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-16543</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Abdelhamid Naceri' was reported to the affected vendor on: 2022-06-28, 25 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Abdelhamid Naceri' was reported to the affected vendor on: 2022-06-28, 26 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2551,7 +2551,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17701</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-28, 25 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 8.8 (AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'kimiya' was reported to the affected vendor on: 2022-06-28, 26 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2561,7 +2561,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17726</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 25 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 26 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2571,7 +2571,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17737</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Reno Robert of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 25 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Reno Robert of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 26 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2581,7 +2581,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17370</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Aaron Ferber' was reported to the affected vendor on: 2022-06-28, 25 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Aaron Ferber' was reported to the affected vendor on: 2022-06-28, 26 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
@@ -2591,7 +2591,7 @@ The post Combined OU and Accounts page now available in AWS Control Tower appear
         <id>ZDI-CAN-17727</id>
         <link href="http://www.zerodayinitiative.com/advisories/upcoming/"/>
         <updated>2022-06-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 25 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
+        <summary type="html"><![CDATA[A CVSS score 7.8 (AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H) severity vulnerability discovered by 'Mat Powell of Trend Micro Zero Day Initiative' was reported to the affected vendor on: 2022-06-28, 26 days ago. The vendor is given until 2022-10-26 to publish a fix or workaround. Once the vendor has created and tested a patch we will coordinate the release of a public advisory.]]></summary>
         <author>
             <name>ZDI: Upcoming Advisories</name>
         </author>
